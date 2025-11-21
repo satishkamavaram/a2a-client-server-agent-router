@@ -1,0 +1,72 @@
+[
+  {
+    "customerid": 101,
+    "name": "Acme Corp",
+    "email": "contact@acmecorp.com",
+    "phone": "555-1001",
+    "address": "100 Acme Way, New York, NY"
+  },
+  {
+    "customerid": 102,
+    "name": "Beta LLC",
+    "email": "info@betallc.com",
+    "phone": "555-1002",
+    "address": "200 Beta Blvd, Los Angeles, CA"
+  },
+  {
+    "customerid": 103,
+    "name": "Gamma Inc",
+    "email": "hello@gammainc.com",
+    "phone": "555-1003",
+    "address": "300 Gamma Rd, Chicago, IL"
+  },
+  {
+    "customerid": 104,
+    "name": "Delta Co",
+    "email": "support@deltaco.com",
+    "phone": "555-1004",
+    "address": "400 Delta Ave, Houston, TX"
+  },
+  {
+    "customerid": 105,
+    "name": "Epsilon Ltd",
+    "email": "contact@epsilonltd.com",
+    "phone": "555-1005",
+    "address": "500 Epsilon St, Phoenix, AZ"
+  },
+  {
+    "customerid": 106,
+    "name": "Zeta Group",
+    "email": "info@zetagroup.com",
+    "phone": "555-1006",
+    "address": "600 Zeta Ln, Philadelphia, PA"
+  },
+  {
+    "customerid": 107,
+    "name": "Eta Partners",
+    "email": "hello@etapartners.com",
+    "phone": "555-1007",
+    "address": "700 Eta Dr, San Antonio, TX"
+  },
+  {
+    "customerid": 108,
+    "name": "Theta Solutions",
+    "email": "support@thetasolutions.com",
+    "phone": "555-1008",
+    "address": "800 Theta Ct, San Diego, CA"
+  },
+  {
+    "customerid": 109,
+    "name": "Iota Services",
+    "email": "contact@iotaservices.com",
+    "phone": "555-1009",
+    "address": "900 Iota Pl, Dallas, TX"
+  },
+  {
+    "customerid": 110,
+    "name": "Kappa Enterprises",
+    "email": "info@kappaenterprises.com",
+    "phone": "555-1010",
+    "address": "1000 Kappa Cir, San Jose, CA"
+  }
+]

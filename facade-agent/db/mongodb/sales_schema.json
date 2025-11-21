@@ -1,0 +1,7002 @@
+[
+  {
+    "saleid": 1,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-01-05",
+    "amount": 250.00
+  },
+  {
+    "saleid": 2,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-01-06",
+    "amount": 180.00
+  },
+  {
+    "saleid": 3,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-01-07",
+    "amount": 320.00
+  },
+  {
+    "saleid": 4,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-01-08",
+    "amount": 150.00
+  },
+  {
+    "saleid": 5,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-01-09",
+    "amount": 400.00
+  },
+  {
+    "saleid": 6,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-01-10",
+    "amount": 210.00
+  },
+  {
+    "saleid": 7,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-01-11",
+    "amount": 175.00
+  },
+  {
+    "saleid": 8,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-01-12",
+    "amount": 290.00
+  },
+  {
+    "saleid": 9,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-01-13",
+    "amount": 330.00
+  },
+  {
+    "saleid": 10,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-01-14",
+    "amount": 120.00
+  },
+  {
+    "saleid": 11,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2024-02-05",
+    "amount": 260.00
+  },
+  {
+    "saleid": 12,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2024-02-06",
+    "amount": 190.00
+  },
+  {
+    "saleid": 13,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2024-02-07",
+    "amount": 330.00
+  },
+  {
+    "saleid": 14,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2024-02-08",
+    "amount": 160.00
+  },
+  {
+    "saleid": 15,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2024-02-09",
+    "amount": 410.00
+  },
+  {
+    "saleid": 16,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2024-02-10",
+    "amount": 220.00
+  },
+  {
+    "saleid": 17,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2024-02-11",
+    "amount": 185.00
+  },
+  {
+    "saleid": 18,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2024-02-12",
+    "amount": 300.00
+  },
+  {
+    "saleid": 19,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2024-02-13",
+    "amount": 340.00
+  },
+  {
+    "saleid": 20,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2024-02-14",
+    "amount": 130.00
+  },
+  {
+    "saleid": 21,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2024-03-05",
+    "amount": 270.00
+  },
+  {
+    "saleid": 22,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2024-03-06",
+    "amount": 200.00
+  },
+  {
+    "saleid": 23,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2024-03-07",
+    "amount": 340.00
+  },
+  {
+    "saleid": 24,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2024-03-08",
+    "amount": 170.00
+  },
+  {
+    "saleid": 25,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2024-03-09",
+    "amount": 420.00
+  },
+  {
+    "saleid": 26,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2024-03-10",
+    "amount": 230.00
+  },
+  {
+    "saleid": 27,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2024-03-11",
+    "amount": 195.00
+  },
+  {
+    "saleid": 28,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2024-03-12",
+    "amount": 310.00
+  },
+  {
+    "saleid": 29,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2024-03-13",
+    "amount": 350.00
+  },
+  {
+    "saleid": 30,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2024-03-14",
+    "amount": 140.00
+  },
+  {
+    "saleid": 31,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2024-04-05",
+    "amount": 280.00
+  },
+  {
+    "saleid": 32,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2024-04-06",
+    "amount": 210.00
+  },
+  {
+    "saleid": 33,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2024-04-07",
+    "amount": 350.00
+  },
+  {
+    "saleid": 34,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2024-04-08",
+    "amount": 180.00
+  },
+  {
+    "saleid": 35,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2024-04-09",
+    "amount": 430.00
+  },
+  {
+    "saleid": 36,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2024-04-10",
+    "amount": 240.00
+  },
+  {
+    "saleid": 37,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2024-04-11",
+    "amount": 205.00
+  },
+  {
+    "saleid": 38,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2024-04-12",
+    "amount": 320.00
+  },
+  {
+    "saleid": 39,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2024-04-13",
+    "amount": 360.00
+  },
+  {
+    "saleid": 40,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2024-04-14",
+    "amount": 150.00
+  },
+  {
+    "saleid": 41,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2024-05-05",
+    "amount": 290.00
+  },
+  {
+    "saleid": 42,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2024-05-06",
+    "amount": 220.00
+  },
+  {
+    "saleid": 43,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2024-05-07",
+    "amount": 360.00
+  },
+  {
+    "saleid": 44,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2024-05-08",
+    "amount": 190.00
+  },
+  {
+    "saleid": 45,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2024-05-09",
+    "amount": 440.00
+  },
+  {
+    "saleid": 46,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2024-05-10",
+    "amount": 250.00
+  },
+  {
+    "saleid": 47,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2024-05-11",
+    "amount": 215.00
+  },
+  {
+    "saleid": 48,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2024-05-12",
+    "amount": 330.00
+  },
+  {
+    "saleid": 49,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2024-05-13",
+    "amount": 370.00
+  },
+  {
+    "saleid": 50,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2024-05-14",
+    "amount": 160.00
+  },
+  {
+    "saleid": 51,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2023-01-15",
+    "amount": 275.00
+  },
+  {
+    "saleid": 52,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2023-01-16",
+    "amount": 195.00
+  },
+  {
+    "saleid": 53,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2023-01-17",
+    "amount": 335.00
+  },
+  {
+    "saleid": 54,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2023-01-18",
+    "amount": 165.00
+  },
+  {
+    "saleid": 55,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2023-01-19",
+    "amount": 415.00
+  },
+  {
+    "saleid": 56,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2023-01-20",
+    "amount": 225.00
+  },
+  {
+    "saleid": 57,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2023-01-21",
+    "amount": 190.00
+  },
+  {
+    "saleid": 58,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2023-01-22",
+    "amount": 305.00
+  },
+  {
+    "saleid": 59,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2023-01-23",
+    "amount": 345.00
+  },
+  {
+    "saleid": 60,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2023-01-24",
+    "amount": 135.00
+  },
+  {
+    "saleid": 61,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-02-15",
+    "amount": 285.00
+  },
+  {
+    "saleid": 62,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-02-16",
+    "amount": 205.00
+  },
+  {
+    "saleid": 63,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-02-17",
+    "amount": 355.00
+  },
+  {
+    "saleid": 64,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-02-18",
+    "amount": 185.00
+  },
+  {
+    "saleid": 65,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-02-19",
+    "amount": 435.00
+  },
+  {
+    "saleid": 66,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-02-20",
+    "amount": 245.00
+  },
+  {
+    "saleid": 67,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-02-21",
+    "amount": 210.00
+  },
+  {
+    "saleid": 68,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-02-22",
+    "amount": 325.00
+  },
+  {
+    "saleid": 69,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-02-23",
+    "amount": 365.00
+  },
+  {
+    "saleid": 70,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-02-24",
+    "amount": 155.00
+  },
+  {
+    "saleid": 71,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2023-03-15",
+    "amount": 295.00
+  },
+  {
+    "saleid": 72,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2023-03-16",
+    "amount": 215.00
+  },
+  {
+    "saleid": 73,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2023-03-17",
+    "amount": 375.00
+  },
+  {
+    "saleid": 74,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2023-03-18",
+    "amount": 195.00
+  },
+  {
+    "saleid": 75,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2023-03-19",
+    "amount": 455.00
+  },
+  {
+    "saleid": 76,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2023-03-20",
+    "amount": 265.00
+  },
+  {
+    "saleid": 77,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2023-03-21",
+    "amount": 225.00
+  },
+  {
+    "saleid": 78,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2023-03-22",
+    "amount": 345.00
+  },
+  {
+    "saleid": 79,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2023-03-23",
+    "amount": 385.00
+  },
+  {
+    "saleid": 80,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2023-03-24",
+    "amount": 175.00
+  },
+  {
+    "saleid": 81,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2023-04-15",
+    "amount": 305.00
+  },
+  {
+    "saleid": 82,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2023-04-16",
+    "amount": 225.00
+  },
+  {
+    "saleid": 83,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2023-04-17",
+    "amount": 395.00
+  },
+  {
+    "saleid": 84,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2023-04-18",
+    "amount": 205.00
+  },
+  {
+    "saleid": 85,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2023-04-19",
+    "amount": 475.00
+  },
+  {
+    "saleid": 86,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2023-04-20",
+    "amount": 285.00
+  },
+  {
+    "saleid": 87,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2023-04-21",
+    "amount": 235.00
+  },
+  {
+    "saleid": 88,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2023-04-22",
+    "amount": 365.00
+  },
+  {
+    "saleid": 89,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2023-04-23",
+    "amount": 405.00
+  },
+  {
+    "saleid": 90,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2023-04-24",
+    "amount": 185.00
+  },
+  {
+    "saleid": 91,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2023-05-15",
+    "amount": 315.00
+  },
+  {
+    "saleid": 92,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2023-05-16",
+    "amount": 235.00
+  },
+  {
+    "saleid": 93,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2023-05-17",
+    "amount": 415.00
+  },
+  {
+    "saleid": 94,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2023-05-18",
+    "amount": 215.00
+  },
+  {
+    "saleid": 95,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2023-05-19",
+    "amount": 495.00
+  },
+  {
+    "saleid": 96,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2023-05-20",
+    "amount": 305.00
+  },
+  {
+    "saleid": 97,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2023-05-21",
+    "amount": 245.00
+  },
+  {
+    "saleid": 98,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2023-05-22",
+    "amount": 385.00
+  },
+  {
+    "saleid": 99,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2023-05-23",
+    "amount": 425.00
+  },
+  {
+    "saleid": 100,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2023-05-24",
+    "amount": 195.00
+  },
+  {
+    "saleid": 101,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2022-01-10",
+    "amount": 265.00
+  },
+  {
+    "saleid": 102,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2022-01-11",
+    "amount": 185.00
+  },
+  {
+    "saleid": 103,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2022-01-12",
+    "amount": 325.00
+  },
+  {
+    "saleid": 104,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2022-01-13",
+    "amount": 155.00
+  },
+  {
+    "saleid": 105,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2022-01-14",
+    "amount": 405.00
+  },
+  {
+    "saleid": 106,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2022-01-15",
+    "amount": 215.00
+  },
+  {
+    "saleid": 107,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2022-01-16",
+    "amount": 180.00
+  },
+  {
+    "saleid": 108,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2022-01-17",
+    "amount": 295.00
+  },
+  {
+    "saleid": 109,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2022-01-18",
+    "amount": 335.00
+  },
+  {
+    "saleid": 110,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2022-01-19",
+    "amount": 125.00
+  },
+  {
+    "saleid": 111,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2022-02-10",
+    "amount": 275.00
+  },
+  {
+    "saleid": 112,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2022-02-11",
+    "amount": 195.00
+  },
+  {
+    "saleid": 113,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2022-02-12",
+    "amount": 345.00
+  },
+  {
+    "saleid": 114,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2022-02-13",
+    "amount": 165.00
+  },
+  {
+    "saleid": 115,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2022-02-14",
+    "amount": 425.00
+  },
+  {
+    "saleid": 116,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2022-02-15",
+    "amount": 235.00
+  },
+  {
+    "saleid": 117,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2022-02-16",
+    "amount": 190.00
+  },
+  {
+    "saleid": 118,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2022-02-17",
+    "amount": 315.00
+  },
+  {
+    "saleid": 119,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2022-02-18",
+    "amount": 355.00
+  },
+  {
+    "saleid": 120,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2022-02-19",
+    "amount": 135.00
+  },
+  {
+    "saleid": 121,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-03-10",
+    "amount": 285.00
+  },
+  {
+    "saleid": 122,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-03-11",
+    "amount": 205.00
+  },
+  {
+    "saleid": 123,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-03-12",
+    "amount": 365.00
+  },
+  {
+    "saleid": 124,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-03-13",
+    "amount": 175.00
+  },
+  {
+    "saleid": 125,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-03-14",
+    "amount": 445.00
+  },
+  {
+    "saleid": 126,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-03-15",
+    "amount": 255.00
+  },
+  {
+    "saleid": 127,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-03-16",
+    "amount": 200.00
+  },
+  {
+    "saleid": 128,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-03-17",
+    "amount": 335.00
+  },
+  {
+    "saleid": 129,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-03-18",
+    "amount": 375.00
+  },
+  {
+    "saleid": 130,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-03-19",
+    "amount": 145.00
+  },
+  {
+    "saleid": 131,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2022-04-10",
+    "amount": 295.00
+  },
+  {
+    "saleid": 132,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2022-04-11",
+    "amount": 215.00
+  },
+  {
+    "saleid": 133,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2022-04-12",
+    "amount": 385.00
+  },
+  {
+    "saleid": 134,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2022-04-13",
+    "amount": 185.00
+  },
+  {
+    "saleid": 135,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2022-04-14",
+    "amount": 465.00
+  },
+  {
+    "saleid": 136,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2022-04-15",
+    "amount": 275.00
+  },
+  {
+    "saleid": 137,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2022-04-16",
+    "amount": 210.00
+  },
+  {
+    "saleid": 138,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2022-04-17",
+    "amount": 355.00
+  },
+  {
+    "saleid": 139,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2022-04-18",
+    "amount": 395.00
+  },
+  {
+    "saleid": 140,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2022-04-19",
+    "amount": 155.00
+  },
+  {
+    "saleid": 141,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2022-05-10",
+    "amount": 305.00
+  },
+  {
+    "saleid": 142,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2022-05-11",
+    "amount": 225.00
+  },
+  {
+    "saleid": 143,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2022-05-12",
+    "amount": 405.00
+  },
+  {
+    "saleid": 144,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2022-05-13",
+    "amount": 195.00
+  },
+  {
+    "saleid": 145,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2022-05-14",
+    "amount": 485.00
+  },
+  {
+    "saleid": 146,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2022-05-15",
+    "amount": 295.00
+  },
+  {
+    "saleid": 147,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2022-05-16",
+    "amount": 220.00
+  },
+  {
+    "saleid": 148,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2022-05-17",
+    "amount": 375.00
+  },
+  {
+    "saleid": 149,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2022-05-18",
+    "amount": 415.00
+  },
+  {
+    "saleid": 150,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2022-05-19",
+    "amount": 165.00
+  },
+  {
+    "saleid": 151,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2021-01-20",
+    "amount": 255.00
+  },
+  {
+    "saleid": 152,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2021-01-21",
+    "amount": 175.00
+  },
+  {
+    "saleid": 153,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2021-01-22",
+    "amount": 315.00
+  },
+  {
+    "saleid": 154,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2021-01-23",
+    "amount": 145.00
+  },
+  {
+    "saleid": 155,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2021-01-24",
+    "amount": 395.00
+  },
+  {
+    "saleid": 156,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2021-01-25",
+    "amount": 205.00
+  },
+  {
+    "saleid": 157,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2021-01-26",
+    "amount": 170.00
+  },
+  {
+    "saleid": 158,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2021-01-27",
+    "amount": 285.00
+  },
+  {
+    "saleid": 159,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2021-01-28",
+    "amount": 325.00
+  },
+  {
+    "saleid": 160,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2021-01-29",
+    "amount": 115.00
+  },
+  {
+    "saleid": 161,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2021-02-20",
+    "amount": 265.00
+  },
+  {
+    "saleid": 162,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2021-02-21",
+    "amount": 185.00
+  },
+  {
+    "saleid": 163,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2021-02-22",
+    "amount": 335.00
+  },
+  {
+    "saleid": 164,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2021-02-23",
+    "amount": 155.00
+  },
+  {
+    "saleid": 165,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2021-02-24",
+    "amount": 415.00
+  },
+  {
+    "saleid": 166,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2021-02-25",
+    "amount": 225.00
+  },
+  {
+    "saleid": 167,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2021-02-26",
+    "amount": 180.00
+  },
+  {
+    "saleid": 168,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2021-02-27",
+    "amount": 305.00
+  },
+  {
+    "saleid": 169,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2021-02-28",
+    "amount": 345.00
+  },
+  {
+    "saleid": 170,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2021-03-01",
+    "amount": 125.00
+  },
+  {
+    "saleid": 171,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2021-03-20",
+    "amount": 275.00
+  },
+  {
+    "saleid": 172,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2021-03-21",
+    "amount": 195.00
+  },
+  {
+    "saleid": 173,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2021-03-22",
+    "amount": 355.00
+  },
+  {
+    "saleid": 174,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2021-03-23",
+    "amount": 165.00
+  },
+  {
+    "saleid": 175,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2021-03-24",
+    "amount": 435.00
+  },
+  {
+    "saleid": 176,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2021-03-25",
+    "amount": 245.00
+  },
+  {
+    "saleid": 177,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2021-03-26",
+    "amount": 190.00
+  },
+  {
+    "saleid": 178,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2021-03-27",
+    "amount": 325.00
+  },
+  {
+    "saleid": 179,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2021-03-28",
+    "amount": 365.00
+  },
+  {
+    "saleid": 180,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2021-03-29",
+    "amount": 135.00
+  },
+  {
+    "saleid": 181,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-04-20",
+    "amount": 285.00
+  },
+  {
+    "saleid": 182,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-04-21",
+    "amount": 205.00
+  },
+  {
+    "saleid": 183,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-04-22",
+    "amount": 375.00
+  },
+  {
+    "saleid": 184,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-04-23",
+    "amount": 175.00
+  },
+  {
+    "saleid": 185,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-04-24",
+    "amount": 455.00
+  },
+  {
+    "saleid": 186,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-04-25",
+    "amount": 265.00
+  },
+  {
+    "saleid": 187,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-04-26",
+    "amount": 200.00
+  },
+  {
+    "saleid": 188,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-04-27",
+    "amount": 345.00
+  },
+  {
+    "saleid": 189,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-04-28",
+    "amount": 385.00
+  },
+  {
+    "saleid": 190,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-04-29",
+    "amount": 145.00
+  },
+  {
+    "saleid": 191,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2021-05-20",
+    "amount": 295.00
+  },
+  {
+    "saleid": 192,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2021-05-21",
+    "amount": 215.00
+  },
+  {
+    "saleid": 193,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2021-05-22",
+    "amount": 395.00
+  },
+  {
+    "saleid": 194,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2021-05-23",
+    "amount": 185.00
+  },
+  {
+    "saleid": 195,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2021-05-24",
+    "amount": 475.00
+  },
+  {
+    "saleid": 196,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2021-05-25",
+    "amount": 285.00
+  },
+  {
+    "saleid": 197,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2021-05-26",
+    "amount": 210.00
+  },
+  {
+    "saleid": 198,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2021-05-27",
+    "amount": 365.00
+  },
+  {
+    "saleid": 199,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2021-05-28",
+    "amount": 405.00
+  },
+  {
+    "saleid": 200,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2021-05-29",
+    "amount": 155.00
+  },
+  {
+    "saleid": 201,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2025-01-05",
+    "amount": 285.00
+  },
+  {
+    "saleid": 202,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2025-01-06",
+    "amount": 205.00
+  },
+  {
+    "saleid": 203,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2025-01-07",
+    "amount": 345.00
+  },
+  {
+    "saleid": 204,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2025-01-08",
+    "amount": 175.00
+  },
+  {
+    "saleid": 205,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2025-01-09",
+    "amount": 435.00
+  },
+  {
+    "saleid": 206,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2025-01-10",
+    "amount": 245.00
+  },
+  {
+    "saleid": 207,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2025-01-11",
+    "amount": 200.00
+  },
+  {
+    "saleid": 208,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2025-01-12",
+    "amount": 325.00
+  },
+  {
+    "saleid": 209,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2025-01-13",
+    "amount": 365.00
+  },
+  {
+    "saleid": 210,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2025-01-14",
+    "amount": 145.00
+  },
+  {
+    "saleid": 211,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2025-02-05",
+    "amount": 295.00
+  },
+  {
+    "saleid": 212,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2025-02-06",
+    "amount": 215.00
+  },
+  {
+    "saleid": 213,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2025-02-07",
+    "amount": 365.00
+  },
+  {
+    "saleid": 214,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2025-02-08",
+    "amount": 185.00
+  },
+  {
+    "saleid": 215,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2025-02-09",
+    "amount": 455.00
+  },
+  {
+    "saleid": 216,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2025-02-10",
+    "amount": 265.00
+  },
+  {
+    "saleid": 217,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2025-02-11",
+    "amount": 210.00
+  },
+  {
+    "saleid": 218,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2025-02-12",
+    "amount": 345.00
+  },
+  {
+    "saleid": 219,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2025-02-13",
+    "amount": 385.00
+  },
+  {
+    "saleid": 220,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2025-02-14",
+    "amount": 155.00
+  },
+  {
+    "saleid": 221,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2025-03-05",
+    "amount": 305.00
+  },
+  {
+    "saleid": 222,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2025-03-06",
+    "amount": 225.00
+  },
+  {
+    "saleid": 223,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2025-03-07",
+    "amount": 385.00
+  },
+  {
+    "saleid": 224,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2025-03-08",
+    "amount": 195.00
+  },
+  {
+    "saleid": 225,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2025-03-09",
+    "amount": 475.00
+  },
+  {
+    "saleid": 226,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2025-03-10",
+    "amount": 285.00
+  },
+  {
+    "saleid": 227,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2025-03-11",
+    "amount": 220.00
+  },
+  {
+    "saleid": 228,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2025-03-12",
+    "amount": 365.00
+  },
+  {
+    "saleid": 229,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2025-03-13",
+    "amount": 405.00
+  },
+  {
+    "saleid": 230,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2025-03-14",
+    "amount": 165.00
+  },
+  {
+    "saleid": 231,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2025-04-05",
+    "amount": 315.00
+  },
+  {
+    "saleid": 232,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2025-04-06",
+    "amount": 235.00
+  },
+  {
+    "saleid": 233,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2025-04-07",
+    "amount": 405.00
+  },
+  {
+    "saleid": 234,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2025-04-08",
+    "amount": 205.00
+  },
+  {
+    "saleid": 235,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2025-04-09",
+    "amount": 495.00
+  },
+  {
+    "saleid": 236,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2025-04-10",
+    "amount": 305.00
+  },
+  {
+    "saleid": 237,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2025-04-11",
+    "amount": 230.00
+  },
+  {
+    "saleid": 238,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2025-04-12",
+    "amount": 385.00
+  },
+  {
+    "saleid": 239,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2025-04-13",
+    "amount": 425.00
+  },
+  {
+    "saleid": 240,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2025-04-14",
+    "amount": 175.00
+  },
+  {
+    "saleid": 241,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-05-05",
+    "amount": 325.00
+  },
+  {
+    "saleid": 242,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-05-06",
+    "amount": 245.00
+  },
+  {
+    "saleid": 243,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-05-07",
+    "amount": 425.00
+  },
+  {
+    "saleid": 244,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-05-08",
+    "amount": 215.00
+  },
+  {
+    "saleid": 245,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-05-09",
+    "amount": 515.00
+  },
+  {
+    "saleid": 246,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-05-10",
+    "amount": 325.00
+  },
+  {
+    "saleid": 247,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-05-11",
+    "amount": 240.00
+  },
+  {
+    "saleid": 248,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-05-12",
+    "amount": 405.00
+  },
+  {
+    "saleid": 249,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-05-13",
+    "amount": 445.00
+  },
+  {
+    "saleid": 250,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-05-14",
+    "amount": 185.00
+  },
+  {
+    "saleid": 251,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-06-05",
+    "amount": 335.00
+  },
+  {
+    "saleid": 252,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-06-06",
+    "amount": 255.00
+  },
+  {
+    "saleid": 253,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-06-07",
+    "amount": 445.00
+  },
+  {
+    "saleid": 254,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-06-08",
+    "amount": 225.00
+  },
+  {
+    "saleid": 255,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-06-09",
+    "amount": 535.00
+  },
+  {
+    "saleid": 256,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-06-10",
+    "amount": 345.00
+  },
+  {
+    "saleid": 257,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-06-11",
+    "amount": 260.00
+  },
+  {
+    "saleid": 258,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-06-12",
+    "amount": 425.00
+  },
+  {
+    "saleid": 259,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-06-13",
+    "amount": 465.00
+  },
+  {
+    "saleid": 260,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-06-14",
+    "amount": 205.00
+  },
+  {
+    "saleid": 261,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-06-15",
+    "amount": 345.00
+  },
+  {
+    "saleid": 262,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-06-16",
+    "amount": 265.00
+  },
+  {
+    "saleid": 263,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-06-17",
+    "amount": 465.00
+  },
+  {
+    "saleid": 264,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-06-18",
+    "amount": 245.00
+  },
+  {
+    "saleid": 265,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-06-19",
+    "amount": 555.00
+  },
+  {
+    "saleid": 266,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-06-20",
+    "amount": 365.00
+  },
+  {
+    "saleid": 267,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-06-21",
+    "amount": 280.00
+  },
+  {
+    "saleid": 268,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-06-22",
+    "amount": 445.00
+  },
+  {
+    "saleid": 269,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-06-23",
+    "amount": 485.00
+  },
+  {
+    "saleid": 270,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-06-24",
+    "amount": 225.00
+  },
+  {
+    "saleid": 271,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-06-10",
+    "amount": 355.00
+  },
+  {
+    "saleid": 272,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-06-11",
+    "amount": 275.00
+  },
+  {
+    "saleid": 273,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-06-12",
+    "amount": 485.00
+  },
+  {
+    "saleid": 274,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-06-13",
+    "amount": 265.00
+  },
+  {
+    "saleid": 275,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-06-14",
+    "amount": 575.00
+  },
+  {
+    "saleid": 276,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-06-15",
+    "amount": 385.00
+  },
+  {
+    "saleid": 277,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-06-16",
+    "amount": 300.00
+  },
+  {
+    "saleid": 278,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-06-17",
+    "amount": 465.00
+  },
+  {
+    "saleid": 279,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-06-18",
+    "amount": 505.00
+  },
+  {
+    "saleid": 280,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-06-19",
+    "amount": 245.00
+  },
+  {
+    "saleid": 281,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-06-20",
+    "amount": 365.00
+  },
+  {
+    "saleid": 282,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-06-21",
+    "amount": 285.00
+  },
+  {
+    "saleid": 283,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-06-22",
+    "amount": 505.00
+  },
+  {
+    "saleid": 284,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-06-23",
+    "amount": 285.00
+  },
+  {
+    "saleid": 285,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-06-24",
+    "amount": 595.00
+  },
+  {
+    "saleid": 286,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-06-25",
+    "amount": 405.00
+  },
+  {
+    "saleid": 287,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-06-26",
+    "amount": 320.00
+  },
+  {
+    "saleid": 288,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-06-27",
+    "amount": 485.00
+  },
+  {
+    "saleid": 289,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-06-28",
+    "amount": 525.00
+  },
+  {
+    "saleid": 290,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-06-29",
+    "amount": 265.00
+  },
+  {
+    "saleid": 291,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-06-05",
+    "amount": 375.00
+  },
+  {
+    "saleid": 292,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-06-06",
+    "amount": 295.00
+  },
+  {
+    "saleid": 293,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-06-07",
+    "amount": 525.00
+  },
+  {
+    "saleid": 294,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-06-08",
+    "amount": 305.00
+  },
+  {
+    "saleid": 295,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-06-09",
+    "amount": 615.00
+  },
+  {
+    "saleid": 296,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-06-10",
+    "amount": 425.00
+  },
+  {
+    "saleid": 297,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-06-11",
+    "amount": 340.00
+  },
+  {
+    "saleid": 298,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-06-12",
+    "amount": 505.00
+  },
+  {
+    "saleid": 299,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-06-13",
+    "amount": 545.00
+  },
+  {
+    "saleid": 300,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-06-14",
+    "amount": 285.00
+  },
+  {
+    "saleid": 301,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-07-05",
+    "amount": 385.00
+  },
+  {
+    "saleid": 302,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-07-06",
+    "amount": 305.00
+  },
+  {
+    "saleid": 303,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-07-07",
+    "amount": 545.00
+  },
+  {
+    "saleid": 304,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-07-08",
+    "amount": 325.00
+  },
+  {
+    "saleid": 305,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-07-09",
+    "amount": 635.00
+  },
+  {
+    "saleid": 306,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-07-10",
+    "amount": 445.00
+  },
+  {
+    "saleid": 307,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-07-11",
+    "amount": 360.00
+  },
+  {
+    "saleid": 308,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-07-12",
+    "amount": 525.00
+  },
+  {
+    "saleid": 309,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-07-13",
+    "amount": 565.00
+  },
+  {
+    "saleid": 310,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-07-14",
+    "amount": 305.00
+  },
+  {
+    "saleid": 311,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-07-15",
+    "amount": 395.00
+  },
+  {
+    "saleid": 312,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-07-16",
+    "amount": 315.00
+  },
+  {
+    "saleid": 313,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-07-17",
+    "amount": 565.00
+  },
+  {
+    "saleid": 314,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-07-18",
+    "amount": 345.00
+  },
+  {
+    "saleid": 315,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-07-19",
+    "amount": 655.00
+  },
+  {
+    "saleid": 316,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-07-20",
+    "amount": 465.00
+  },
+  {
+    "saleid": 317,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-07-21",
+    "amount": 380.00
+  },
+  {
+    "saleid": 318,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-07-22",
+    "amount": 545.00
+  },
+  {
+    "saleid": 319,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-07-23",
+    "amount": 585.00
+  },
+  {
+    "saleid": 320,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-07-24",
+    "amount": 325.00
+  },
+  {
+    "saleid": 321,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-07-10",
+    "amount": 405.00
+  },
+  {
+    "saleid": 322,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-07-11",
+    "amount": 325.00
+  },
+  {
+    "saleid": 323,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-07-12",
+    "amount": 585.00
+  },
+  {
+    "saleid": 324,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-07-13",
+    "amount": 365.00
+  },
+  {
+    "saleid": 325,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-07-14",
+    "amount": 675.00
+  },
+  {
+    "saleid": 326,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-07-15",
+    "amount": 485.00
+  },
+  {
+    "saleid": 327,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-07-16",
+    "amount": 400.00
+  },
+  {
+    "saleid": 328,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-07-17",
+    "amount": 565.00
+  },
+  {
+    "saleid": 329,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-07-18",
+    "amount": 605.00
+  },
+  {
+    "saleid": 330,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-07-19",
+    "amount": 345.00
+  },
+  {
+    "saleid": 331,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-07-20",
+    "amount": 415.00
+  },
+  {
+    "saleid": 332,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-07-21",
+    "amount": 335.00
+  },
+  {
+    "saleid": 333,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-07-22",
+    "amount": 605.00
+  },
+  {
+    "saleid": 334,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-07-23",
+    "amount": 385.00
+  },
+  {
+    "saleid": 335,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-07-24",
+    "amount": 695.00
+  },
+  {
+    "saleid": 336,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-07-25",
+    "amount": 505.00
+  },
+  {
+    "saleid": 337,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-07-26",
+    "amount": 420.00
+  },
+  {
+    "saleid": 338,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-07-27",
+    "amount": 585.00
+  },
+  {
+    "saleid": 339,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-07-28",
+    "amount": 625.00
+  },
+  {
+    "saleid": 340,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-07-29",
+    "amount": 365.00
+  },
+  {
+    "saleid": 341,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-07-05",
+    "amount": 425.00
+  },
+  {
+    "saleid": 342,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-07-06",
+    "amount": 345.00
+  },
+  {
+    "saleid": 343,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-07-07",
+    "amount": 625.00
+  },
+  {
+    "saleid": 344,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-07-08",
+    "amount": 405.00
+  },
+  {
+    "saleid": 345,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-07-09",
+    "amount": 715.00
+  },
+  {
+    "saleid": 346,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-07-10",
+    "amount": 525.00
+  },
+  {
+    "saleid": 347,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-07-11",
+    "amount": 440.00
+  },
+  {
+    "saleid": 348,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-07-12",
+    "amount": 605.00
+  },
+  {
+    "saleid": 349,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-07-13",
+    "amount": 645.00
+  },
+  {
+    "saleid": 350,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-07-14",
+    "amount": 385.00
+  },
+  {
+    "saleid": 351,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-08-05",
+    "amount": 435.00
+  },
+  {
+    "saleid": 352,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-08-06",
+    "amount": 355.00
+  },
+  {
+    "saleid": 353,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-08-07",
+    "amount": 645.00
+  },
+  {
+    "saleid": 354,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-08-08",
+    "amount": 425.00
+  },
+  {
+    "saleid": 355,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-08-09",
+    "amount": 735.00
+  },
+  {
+    "saleid": 356,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-08-10",
+    "amount": 545.00
+  },
+  {
+    "saleid": 357,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-08-11",
+    "amount": 460.00
+  },
+  {
+    "saleid": 358,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-08-12",
+    "amount": 625.00
+  },
+  {
+    "saleid": 359,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-08-13",
+    "amount": 665.00
+  },
+  {
+    "saleid": 360,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-08-14",
+    "amount": 405.00
+  },
+  {
+    "saleid": 361,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-08-15",
+    "amount": 445.00
+  },
+  {
+    "saleid": 362,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-08-16",
+    "amount": 365.00
+  },
+  {
+    "saleid": 363,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-08-17",
+    "amount": 665.00
+  },
+  {
+    "saleid": 364,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-08-18",
+    "amount": 445.00
+  },
+  {
+    "saleid": 365,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-08-19",
+    "amount": 755.00
+  },
+  {
+    "saleid": 366,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-08-20",
+    "amount": 565.00
+  },
+  {
+    "saleid": 367,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-08-21",
+    "amount": 480.00
+  },
+  {
+    "saleid": 368,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-08-22",
+    "amount": 645.00
+  },
+  {
+    "saleid": 369,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-08-23",
+    "amount": 685.00
+  },
+  {
+    "saleid": 370,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-08-24",
+    "amount": 425.00
+  },
+  {
+    "saleid": 371,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-08-10",
+    "amount": 455.00
+  },
+  {
+    "saleid": 372,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-08-11",
+    "amount": 375.00
+  },
+  {
+    "saleid": 373,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-08-12",
+    "amount": 685.00
+  },
+  {
+    "saleid": 374,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-08-13",
+    "amount": 465.00
+  },
+  {
+    "saleid": 375,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-08-14",
+    "amount": 775.00
+  },
+  {
+    "saleid": 376,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-08-15",
+    "amount": 585.00
+  },
+  {
+    "saleid": 377,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-08-16",
+    "amount": 500.00
+  },
+  {
+    "saleid": 378,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-08-17",
+    "amount": 665.00
+  },
+  {
+    "saleid": 379,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-08-18",
+    "amount": 705.00
+  },
+  {
+    "saleid": 380,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-08-19",
+    "amount": 445.00
+  },
+  {
+    "saleid": 381,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-08-20",
+    "amount": 465.00
+  },
+  {
+    "saleid": 382,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-08-21",
+    "amount": 385.00
+  },
+  {
+    "saleid": 383,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-08-22",
+    "amount": 705.00
+  },
+  {
+    "saleid": 384,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-08-23",
+    "amount": 485.00
+  },
+  {
+    "saleid": 385,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-08-24",
+    "amount": 795.00
+  },
+  {
+    "saleid": 386,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-08-25",
+    "amount": 605.00
+  },
+  {
+    "saleid": 387,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-08-26",
+    "amount": 520.00
+  },
+  {
+    "saleid": 388,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-08-27",
+    "amount": 685.00
+  },
+  {
+    "saleid": 389,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-08-28",
+    "amount": 725.00
+  },
+  {
+    "saleid": 390,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-08-29",
+    "amount": 465.00
+  },
+  {
+    "saleid": 391,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-08-05",
+    "amount": 475.00
+  },
+  {
+    "saleid": 392,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-08-06",
+    "amount": 395.00
+  },
+  {
+    "saleid": 393,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-08-07",
+    "amount": 725.00
+  },
+  {
+    "saleid": 394,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-08-08",
+    "amount": 505.00
+  },
+  {
+    "saleid": 395,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-08-09",
+    "amount": 815.00
+  },
+  {
+    "saleid": 396,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-08-10",
+    "amount": 625.00
+  },
+  {
+    "saleid": 397,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-08-11",
+    "amount": 540.00
+  },
+  {
+    "saleid": 398,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-08-12",
+    "amount": 705.00
+  },
+  {
+    "saleid": 399,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-08-13",
+    "amount": 745.00
+  },
+  {
+    "saleid": 400,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-08-14",
+    "amount": 485.00
+  },
+  {
+    "saleid": 401,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-09-05",
+    "amount": 485.00
+  },
+  {
+    "saleid": 402,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-09-06",
+    "amount": 405.00
+  },
+  {
+    "saleid": 403,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-09-07",
+    "amount": 745.00
+  },
+  {
+    "saleid": 404,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-09-08",
+    "amount": 525.00
+  },
+  {
+    "saleid": 405,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-09-09",
+    "amount": 835.00
+  },
+  {
+    "saleid": 406,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-09-10",
+    "amount": 645.00
+  },
+  {
+    "saleid": 407,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-09-11",
+    "amount": 560.00
+  },
+  {
+    "saleid": 408,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-09-12",
+    "amount": 725.00
+  },
+  {
+    "saleid": 409,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-09-13",
+    "amount": 765.00
+  },
+  {
+    "saleid": 410,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-09-14",
+    "amount": 505.00
+  },
+  {
+    "saleid": 411,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-09-15",
+    "amount": 495.00
+  },
+  {
+    "saleid": 412,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-09-16",
+    "amount": 415.00
+  },
+  {
+    "saleid": 413,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-09-17",
+    "amount": 765.00
+  },
+  {
+    "saleid": 414,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-09-18",
+    "amount": 545.00
+  },
+  {
+    "saleid": 415,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-09-19",
+    "amount": 855.00
+  },
+  {
+    "saleid": 416,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-09-20",
+    "amount": 665.00
+  },
+  {
+    "saleid": 417,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-09-21",
+    "amount": 580.00
+  },
+  {
+    "saleid": 418,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-09-22",
+    "amount": 745.00
+  },
+  {
+    "saleid": 419,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-09-23",
+    "amount": 785.00
+  },
+  {
+    "saleid": 420,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-09-24",
+    "amount": 525.00
+  },
+  {
+    "saleid": 421,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-09-10",
+    "amount": 505.00
+  },
+  {
+    "saleid": 422,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-09-11",
+    "amount": 425.00
+  },
+  {
+    "saleid": 423,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-09-12",
+    "amount": 785.00
+  },
+  {
+    "saleid": 424,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-09-13",
+    "amount": 565.00
+  },
+  {
+    "saleid": 425,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-09-14",
+    "amount": 875.00
+  },
+  {
+    "saleid": 426,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-09-15",
+    "amount": 685.00
+  },
+  {
+    "saleid": 427,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-09-16",
+    "amount": 600.00
+  },
+  {
+    "saleid": 428,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-09-17",
+    "amount": 765.00
+  },
+  {
+    "saleid": 429,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-09-18",
+    "amount": 805.00
+  },
+  {
+    "saleid": 430,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-09-19",
+    "amount": 545.00
+  },
+  {
+    "saleid": 431,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-09-20",
+    "amount": 515.00
+  },
+  {
+    "saleid": 432,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-09-21",
+    "amount": 435.00
+  },
+  {
+    "saleid": 433,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-09-22",
+    "amount": 805.00
+  },
+  {
+    "saleid": 434,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-09-23",
+    "amount": 585.00
+  },
+  {
+    "saleid": 435,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-09-24",
+    "amount": 895.00
+  },
+  {
+    "saleid": 436,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-09-25",
+    "amount": 705.00
+  },
+  {
+    "saleid": 437,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-09-26",
+    "amount": 620.00
+  },
+  {
+    "saleid": 438,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-09-27",
+    "amount": 785.00
+  },
+  {
+    "saleid": 439,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-09-28",
+    "amount": 825.00
+  },
+  {
+    "saleid": 440,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-09-29",
+    "amount": 565.00
+  },
+  {
+    "saleid": 441,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-09-05",
+    "amount": 525.00
+  },
+  {
+    "saleid": 442,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-09-06",
+    "amount": 445.00
+  },
+  {
+    "saleid": 443,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-09-07",
+    "amount": 825.00
+  },
+  {
+    "saleid": 444,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-09-08",
+    "amount": 605.00
+  },
+  {
+    "saleid": 445,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-09-09",
+    "amount": 915.00
+  },
+  {
+    "saleid": 446,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-09-10",
+    "amount": 725.00
+  },
+  {
+    "saleid": 447,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-09-11",
+    "amount": 640.00
+  },
+  {
+    "saleid": 448,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-09-12",
+    "amount": 805.00
+  },
+  {
+    "saleid": 449,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-09-13",
+    "amount": 845.00
+  },
+  {
+    "saleid": 450,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-09-14",
+    "amount": 585.00
+  },
+  {
+    "saleid": 451,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-10-05",
+    "amount": 535.00
+  },
+  {
+    "saleid": 452,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-10-06",
+    "amount": 455.00
+  },
+  {
+    "saleid": 453,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-10-07",
+    "amount": 845.00
+  },
+  {
+    "saleid": 454,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-10-08",
+    "amount": 625.00
+  },
+  {
+    "saleid": 455,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-10-09",
+    "amount": 935.00
+  },
+  {
+    "saleid": 456,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-10-10",
+    "amount": 745.00
+  },
+  {
+    "saleid": 457,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-10-11",
+    "amount": 660.00
+  },
+  {
+    "saleid": 458,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-10-12",
+    "amount": 825.00
+  },
+  {
+    "saleid": 459,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-10-13",
+    "amount": 865.00
+  },
+  {
+    "saleid": 460,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-10-14",
+    "amount": 605.00
+  },
+  {
+    "saleid": 461,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-10-15",
+    "amount": 545.00
+  },
+  {
+    "saleid": 462,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-10-16",
+    "amount": 465.00
+  },
+  {
+    "saleid": 463,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-10-17",
+    "amount": 865.00
+  },
+  {
+    "saleid": 464,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-10-18",
+    "amount": 645.00
+  },
+  {
+    "saleid": 465,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-10-19",
+    "amount": 955.00
+  },
+  {
+    "saleid": 466,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-10-20",
+    "amount": 765.00
+  },
+  {
+    "saleid": 467,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-10-21",
+    "amount": 680.00
+  },
+  {
+    "saleid": 468,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-10-22",
+    "amount": 845.00
+  },
+  {
+    "saleid": 469,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-10-23",
+    "amount": 885.00
+  },
+  {
+    "saleid": 470,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-10-24",
+    "amount": 625.00
+  },
+  {
+    "saleid": 471,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-10-10",
+    "amount": 555.00
+  },
+  {
+    "saleid": 472,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-10-11",
+    "amount": 475.00
+  },
+  {
+    "saleid": 473,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-10-12",
+    "amount": 885.00
+  },
+  {
+    "saleid": 474,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-10-13",
+    "amount": 665.00
+  },
+  {
+    "saleid": 475,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-10-14",
+    "amount": 975.00
+  },
+  {
+    "saleid": 476,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-10-15",
+    "amount": 785.00
+  },
+  {
+    "saleid": 477,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-10-16",
+    "amount": 700.00
+  },
+  {
+    "saleid": 478,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-10-17",
+    "amount": 865.00
+  },
+  {
+    "saleid": 479,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-10-18",
+    "amount": 905.00
+  },
+  {
+    "saleid": 480,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-10-19",
+    "amount": 645.00
+  },
+  {
+    "saleid": 481,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-10-20",
+    "amount": 565.00
+  },
+  {
+    "saleid": 482,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-10-21",
+    "amount": 485.00
+  },
+  {
+    "saleid": 483,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-10-22",
+    "amount": 905.00
+  },
+  {
+    "saleid": 484,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-10-23",
+    "amount": 685.00
+  },
+  {
+    "saleid": 485,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-10-24",
+    "amount": 995.00
+  },
+  {
+    "saleid": 486,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-10-25",
+    "amount": 805.00
+  },
+  {
+    "saleid": 487,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-10-26",
+    "amount": 720.00
+  },
+  {
+    "saleid": 488,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-10-27",
+    "amount": 885.00
+  },
+  {
+    "saleid": 489,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-10-28",
+    "amount": 925.00
+  },
+  {
+    "saleid": 490,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-10-29",
+    "amount": 665.00
+  },
+  {
+    "saleid": 491,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-10-05",
+    "amount": 575.00
+  },
+  {
+    "saleid": 492,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-10-06",
+    "amount": 495.00
+  },
+  {
+    "saleid": 493,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-10-07",
+    "amount": 925.00
+  },
+  {
+    "saleid": 494,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-10-08",
+    "amount": 705.00
+  },
+  {
+    "saleid": 495,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-10-09",
+    "amount": 1015.00
+  },
+  {
+    "saleid": 496,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-10-10",
+    "amount": 825.00
+  },
+  {
+    "saleid": 497,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-10-11",
+    "amount": 740.00
+  },
+  {
+    "saleid": 498,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-10-12",
+    "amount": 905.00
+  },
+  {
+    "saleid": 499,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-10-13",
+    "amount": 945.00
+  },
+  {
+    "saleid": 500,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-10-14",
+    "amount": 685.00
+  },
+  {
+    "saleid": 501,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-11-05",
+    "amount": 585.00
+  },
+  {
+    "saleid": 502,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-11-06",
+    "amount": 505.00
+  },
+  {
+    "saleid": 503,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-11-07",
+    "amount": 945.00
+  },
+  {
+    "saleid": 504,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-11-08",
+    "amount": 725.00
+  },
+  {
+    "saleid": 505,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-11-09",
+    "amount": 1035.00
+  },
+  {
+    "saleid": 506,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-11-10",
+    "amount": 845.00
+  },
+  {
+    "saleid": 507,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-11-11",
+    "amount": 760.00
+  },
+  {
+    "saleid": 508,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-11-12",
+    "amount": 925.00
+  },
+  {
+    "saleid": 509,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-11-13",
+    "amount": 965.00
+  },
+  {
+    "saleid": 510,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-11-14",
+    "amount": 705.00
+  },
+  {
+    "saleid": 511,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-11-15",
+    "amount": 595.00
+  },
+  {
+    "saleid": 512,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-11-16",
+    "amount": 515.00
+  },
+  {
+    "saleid": 513,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-11-17",
+    "amount": 965.00
+  },
+  {
+    "saleid": 514,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-11-18",
+    "amount": 745.00
+  },
+  {
+    "saleid": 515,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-11-19",
+    "amount": 1055.00
+  },
+  {
+    "saleid": 516,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-11-20",
+    "amount": 865.00
+  },
+  {
+    "saleid": 517,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-11-21",
+    "amount": 780.00
+  },
+  {
+    "saleid": 518,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-11-22",
+    "amount": 945.00
+  },
+  {
+    "saleid": 519,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-11-23",
+    "amount": 985.00
+  },
+  {
+    "saleid": 520,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-11-24",
+    "amount": 725.00
+  },
+  {
+    "saleid": 521,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-11-10",
+    "amount": 605.00
+  },
+  {
+    "saleid": 522,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-11-11",
+    "amount": 525.00
+  },
+  {
+    "saleid": 523,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-11-12",
+    "amount": 985.00
+  },
+  {
+    "saleid": 524,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-11-13",
+    "amount": 765.00
+  },
+  {
+    "saleid": 525,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-11-14",
+    "amount": 1075.00
+  },
+  {
+    "saleid": 526,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-11-15",
+    "amount": 885.00
+  },
+  {
+    "saleid": 527,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-11-16",
+    "amount": 800.00
+  },
+  {
+    "saleid": 528,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-11-17",
+    "amount": 965.00
+  },
+  {
+    "saleid": 529,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-11-18",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 530,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-11-19",
+    "amount": 745.00
+  },
+  {
+    "saleid": 531,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-11-20",
+    "amount": 615.00
+  },
+  {
+    "saleid": 532,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-11-21",
+    "amount": 535.00
+  },
+  {
+    "saleid": 533,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-11-22",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 534,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-11-23",
+    "amount": 785.00
+  },
+  {
+    "saleid": 535,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-11-24",
+    "amount": 1095.00
+  },
+  {
+    "saleid": 536,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-11-25",
+    "amount": 905.00
+  },
+  {
+    "saleid": 537,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-11-26",
+    "amount": 820.00
+  },
+  {
+    "saleid": 538,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-11-27",
+    "amount": 985.00
+  },
+  {
+    "saleid": 539,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-11-28",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 540,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-11-29",
+    "amount": 765.00
+  },
+  {
+    "saleid": 541,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-11-05",
+    "amount": 625.00
+  },
+  {
+    "saleid": 542,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-11-06",
+    "amount": 545.00
+  },
+  {
+    "saleid": 543,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-11-07",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 544,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-11-08",
+    "amount": 805.00
+  },
+  {
+    "saleid": 545,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-11-09",
+    "amount": 1115.00
+  },
+  {
+    "saleid": 546,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-11-10",
+    "amount": 925.00
+  },
+  {
+    "saleid": 547,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-11-11",
+    "amount": 840.00
+  },
+  {
+    "saleid": 548,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-11-12",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 549,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-11-13",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 550,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-11-14",
+    "amount": 785.00
+  },
+  {
+    "saleid": 551,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-12-05",
+    "amount": 635.00
+  },
+  {
+    "saleid": 552,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-12-06",
+    "amount": 555.00
+  },
+  {
+    "saleid": 553,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-12-07",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 554,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-12-08",
+    "amount": 825.00
+  },
+  {
+    "saleid": 555,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-12-09",
+    "amount": 1135.00
+  },
+  {
+    "saleid": 556,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-12-10",
+    "amount": 945.00
+  },
+  {
+    "saleid": 557,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-12-11",
+    "amount": 860.00
+  },
+  {
+    "saleid": 558,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-12-12",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 559,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-12-13",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 560,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-12-14",
+    "amount": 805.00
+  },
+  {
+    "saleid": 561,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-12-15",
+    "amount": 645.00
+  },
+  {
+    "saleid": 562,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-12-16",
+    "amount": 565.00
+  },
+  {
+    "saleid": 563,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-12-17",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 564,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-12-18",
+    "amount": 845.00
+  },
+  {
+    "saleid": 565,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-12-19",
+    "amount": 1155.00
+  },
+  {
+    "saleid": 566,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-12-20",
+    "amount": 965.00
+  },
+  {
+    "saleid": 567,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-12-21",
+    "amount": 880.00
+  },
+  {
+    "saleid": 568,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-12-22",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 569,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-12-23",
+    "amount": 1085.00
+  },
+  {
+    "saleid": 570,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-12-24",
+    "amount": 825.00
+  },
+  {
+    "saleid": 571,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-12-10",
+    "amount": 655.00
+  },
+  {
+    "saleid": 572,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-12-11",
+    "amount": 575.00
+  },
+  {
+    "saleid": 573,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-12-12",
+    "amount": 1085.00
+  },
+  {
+    "saleid": 574,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-12-13",
+    "amount": 865.00
+  },
+  {
+    "saleid": 575,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-12-14",
+    "amount": 1175.00
+  },
+  {
+    "saleid": 576,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-12-15",
+    "amount": 985.00
+  },
+  {
+    "saleid": 577,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-12-16",
+    "amount": 900.00
+  },
+  {
+    "saleid": 578,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-12-17",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 579,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-12-18",
+    "amount": 1105.00
+  },
+  {
+    "saleid": 580,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-12-19",
+    "amount": 845.00
+  },
+  {
+    "saleid": 581,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-12-20",
+    "amount": 665.00
+  },
+  {
+    "saleid": 582,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-12-21",
+    "amount": 585.00
+  },
+  {
+    "saleid": 583,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-12-22",
+    "amount": 1105.00
+  },
+  {
+    "saleid": 584,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-12-23",
+    "amount": 885.00
+  },
+  {
+    "saleid": 585,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-12-24",
+    "amount": 1195.00
+  },
+  {
+    "saleid": 586,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-12-25",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 587,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-12-26",
+    "amount": 920.00
+  },
+  {
+    "saleid": 588,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-12-27",
+    "amount": 1085.00
+  },
+  {
+    "saleid": 589,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-12-28",
+    "amount": 1125.00
+  },
+  {
+    "saleid": 590,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-12-29",
+    "amount": 865.00
+  },
+  {
+    "saleid": 591,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-12-05",
+    "amount": 675.00
+  },
+  {
+    "saleid": 592,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-12-06",
+    "amount": 595.00
+  },
+  {
+    "saleid": 593,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-12-07",
+    "amount": 1125.00
+  },
+  {
+    "saleid": 594,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-12-08",
+    "amount": 905.00
+  },
+  {
+    "saleid": 595,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-12-09",
+    "amount": 1215.00
+  },
+  {
+    "saleid": 596,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-12-10",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 597,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-12-11",
+    "amount": 940.00
+  },
+  {
+    "saleid": 598,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-12-12",
+    "amount": 1105.00
+  },
+  {
+    "saleid": 599,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-12-13",
+    "amount": 1145.00
+  },
+  {
+    "saleid": 600,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-12-14",
+    "amount": 885.00
+  },
+  {
+    "saleid": 601,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-01-15",
+    "amount": 685.00
+  },
+  {
+    "saleid": 602,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-01-16",
+    "amount": 605.00
+  },
+  {
+    "saleid": 603,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-01-17",
+    "amount": 1145.00
+  },
+  {
+    "saleid": 604,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-01-18",
+    "amount": 925.00
+  },
+  {
+    "saleid": 605,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-01-19",
+    "amount": 1235.00
+  },
+  {
+    "saleid": 606,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-01-20",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 607,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-01-21",
+    "amount": 960.00
+  },
+  {
+    "saleid": 608,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-01-22",
+    "amount": 1125.00
+  },
+  {
+    "saleid": 609,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-01-23",
+    "amount": 1165.00
+  },
+  {
+    "saleid": 610,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-01-24",
+    "amount": 905.00
+  },
+  {
+    "saleid": 611,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-01-25",
+    "amount": 695.00
+  },
+  {
+    "saleid": 612,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-01-26",
+    "amount": 615.00
+  },
+  {
+    "saleid": 613,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-01-27",
+    "amount": 1165.00
+  },
+  {
+    "saleid": 614,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-01-28",
+    "amount": 945.00
+  },
+  {
+    "saleid": 615,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-01-29",
+    "amount": 1255.00
+  },
+  {
+    "saleid": 616,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-01-30",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 617,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-01-31",
+    "amount": 980.00
+  },
+  {
+    "saleid": 618,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-02-01",
+    "amount": 1145.00
+  },
+  {
+    "saleid": 619,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-02-02",
+    "amount": 1185.00
+  },
+  {
+    "saleid": 620,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-02-03",
+    "amount": 925.00
+  },
+  {
+    "saleid": 621,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-01-25",
+    "amount": 705.00
+  },
+  {
+    "saleid": 622,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-01-26",
+    "amount": 625.00
+  },
+  {
+    "saleid": 623,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-01-27",
+    "amount": 1185.00
+  },
+  {
+    "saleid": 624,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-01-28",
+    "amount": 965.00
+  },
+  {
+    "saleid": 625,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-01-29",
+    "amount": 1275.00
+  },
+  {
+    "saleid": 626,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-01-30",
+    "amount": 1085.00
+  },
+  {
+    "saleid": 627,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-01-31",
+    "amount": 1000.00
+  },
+  {
+    "saleid": 628,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-02-01",
+    "amount": 1165.00
+  },
+  {
+    "saleid": 629,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-02-02",
+    "amount": 1205.00
+  },
+  {
+    "saleid": 630,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-02-03",
+    "amount": 945.00
+  },
+  {
+    "saleid": 631,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-01-30",
+    "amount": 715.00
+  },
+  {
+    "saleid": 632,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-01-31",
+    "amount": 635.00
+  },
+  {
+    "saleid": 633,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-02-01",
+    "amount": 1205.00
+  },
+  {
+    "saleid": 634,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-02-02",
+    "amount": 985.00
+  },
+  {
+    "saleid": 635,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-02-03",
+    "amount": 1295.00
+  },
+  {
+    "saleid": 636,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-02-04",
+    "amount": 1105.00
+  },
+  {
+    "saleid": 637,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-02-05",
+    "amount": 1020.00
+  },
+  {
+    "saleid": 638,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-02-06",
+    "amount": 1185.00
+  },
+  {
+    "saleid": 639,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-02-07",
+    "amount": 1225.00
+  },
+  {
+    "saleid": 640,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-02-08",
+    "amount": 965.00
+  },
+  {
+    "saleid": 641,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-01-15",
+    "amount": 725.00
+  },
+  {
+    "saleid": 642,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-01-16",
+    "amount": 645.00
+  },
+  {
+    "saleid": 643,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-01-17",
+    "amount": 1225.00
+  },
+  {
+    "saleid": 644,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-01-18",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 645,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-01-19",
+    "amount": 1315.00
+  },
+  {
+    "saleid": 646,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-01-20",
+    "amount": 1125.00
+  },
+  {
+    "saleid": 647,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-01-21",
+    "amount": 1040.00
+  },
+  {
+    "saleid": 648,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-01-22",
+    "amount": 1205.00
+  },
+  {
+    "saleid": 649,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-01-23",
+    "amount": 1245.00
+  },
+  {
+    "saleid": 650,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-01-24",
+    "amount": 985.00
+  },
+  {
+    "saleid": 651,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-02-15",
+    "amount": 735.00
+  },
+  {
+    "saleid": 652,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-02-16",
+    "amount": 655.00
+  },
+  {
+    "saleid": 653,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-02-17",
+    "amount": 1245.00
+  },
+  {
+    "saleid": 654,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-02-18",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 655,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-02-19",
+    "amount": 1335.00
+  },
+  {
+    "saleid": 656,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-02-20",
+    "amount": 1145.00
+  },
+  {
+    "saleid": 657,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-02-21",
+    "amount": 1060.00
+  },
+  {
+    "saleid": 658,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-02-22",
+    "amount": 1225.00
+  },
+  {
+    "saleid": 659,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-02-23",
+    "amount": 1265.00
+  },
+  {
+    "saleid": 660,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-02-24",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 661,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-02-25",
+    "amount": 745.00
+  },
+  {
+    "saleid": 662,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-02-26",
+    "amount": 665.00
+  },
+  {
+    "saleid": 663,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-02-27",
+    "amount": 1265.00
+  },
+  {
+    "saleid": 664,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-02-28",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 665,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-03-01",
+    "amount": 1355.00
+  },
+  {
+    "saleid": 666,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-03-02",
+    "amount": 1165.00
+  },
+  {
+    "saleid": 667,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-03-03",
+    "amount": 1080.00
+  },
+  {
+    "saleid": 668,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-03-04",
+    "amount": 1245.00
+  },
+  {
+    "saleid": 669,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-03-05",
+    "amount": 1285.00
+  },
+  {
+    "saleid": 670,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-03-06",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 671,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-02-25",
+    "amount": 755.00
+  },
+  {
+    "saleid": 672,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-02-26",
+    "amount": 675.00
+  },
+  {
+    "saleid": 673,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-02-27",
+    "amount": 1285.00
+  },
+  {
+    "saleid": 674,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-02-28",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 675,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-03-01",
+    "amount": 1375.00
+  },
+  {
+    "saleid": 676,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-03-02",
+    "amount": 1185.00
+  },
+  {
+    "saleid": 677,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-03-03",
+    "amount": 1100.00
+  },
+  {
+    "saleid": 678,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-03-04",
+    "amount": 1265.00
+  },
+  {
+    "saleid": 679,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-03-05",
+    "amount": 1305.00
+  },
+  {
+    "saleid": 680,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-03-06",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 681,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-02-28",
+    "amount": 765.00
+  },
+  {
+    "saleid": 682,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-03-01",
+    "amount": 685.00
+  },
+  {
+    "saleid": 683,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-03-02",
+    "amount": 1305.00
+  },
+  {
+    "saleid": 684,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-03-03",
+    "amount": 1085.00
+  },
+  {
+    "saleid": 685,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-03-04",
+    "amount": 1395.00
+  },
+  {
+    "saleid": 686,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-03-05",
+    "amount": 1205.00
+  },
+  {
+    "saleid": 687,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-03-06",
+    "amount": 1120.00
+  },
+  {
+    "saleid": 688,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-03-07",
+    "amount": 1285.00
+  },
+  {
+    "saleid": 689,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-03-08",
+    "amount": 1325.00
+  },
+  {
+    "saleid": 690,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-03-09",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 691,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-02-15",
+    "amount": 775.00
+  },
+  {
+    "saleid": 692,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-02-16",
+    "amount": 695.00
+  },
+  {
+    "saleid": 693,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-02-17",
+    "amount": 1325.00
+  },
+  {
+    "saleid": 694,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-02-18",
+    "amount": 1105.00
+  },
+  {
+    "saleid": 695,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-02-19",
+    "amount": 1415.00
+  },
+  {
+    "saleid": 696,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-02-20",
+    "amount": 1225.00
+  },
+  {
+    "saleid": 697,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-02-21",
+    "amount": 1140.00
+  },
+  {
+    "saleid": 698,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-02-22",
+    "amount": 1305.00
+  },
+  {
+    "saleid": 699,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-02-23",
+    "amount": 1345.00
+  },
+  {
+    "saleid": 700,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-02-24",
+    "amount": 1085.00
+  },
+  {
+    "saleid": 701,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-03-15",
+    "amount": 785.00
+  },
+  {
+    "saleid": 702,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-03-16",
+    "amount": 705.00
+  },
+  {
+    "saleid": 703,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-03-17",
+    "amount": 1345.00
+  },
+  {
+    "saleid": 704,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-03-18",
+    "amount": 1125.00
+  },
+  {
+    "saleid": 705,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-03-19",
+    "amount": 1435.00
+  },
+  {
+    "saleid": 706,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-03-20",
+    "amount": 1245.00
+  },
+  {
+    "saleid": 707,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-03-21",
+    "amount": 1160.00
+  },
+  {
+    "saleid": 708,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-03-22",
+    "amount": 1325.00
+  },
+  {
+    "saleid": 709,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-03-23",
+    "amount": 1365.00
+  },
+  {
+    "saleid": 710,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-03-24",
+    "amount": 1105.00
+  },
+  {
+    "saleid": 711,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-03-25",
+    "amount": 795.00
+  },
+  {
+    "saleid": 712,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-03-26",
+    "amount": 715.00
+  },
+  {
+    "saleid": 713,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-03-27",
+    "amount": 1365.00
+  },
+  {
+    "saleid": 714,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-03-28",
+    "amount": 1145.00
+  },
+  {
+    "saleid": 715,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-03-29",
+    "amount": 1455.00
+  },
+  {
+    "saleid": 716,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-03-30",
+    "amount": 1265.00
+  },
+  {
+    "saleid": 717,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-03-31",
+    "amount": 1180.00
+  },
+  {
+    "saleid": 718,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-04-01",
+    "amount": 1345.00
+  },
+  {
+    "saleid": 719,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-04-02",
+    "amount": 1385.00
+  },
+  {
+    "saleid": 720,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-04-03",
+    "amount": 1125.00
+  },
+  {
+    "saleid": 721,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-03-25",
+    "amount": 805.00
+  },
+  {
+    "saleid": 722,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-03-26",
+    "amount": 725.00
+  },
+  {
+    "saleid": 723,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-03-27",
+    "amount": 1385.00
+  },
+  {
+    "saleid": 724,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-03-28",
+    "amount": 1165.00
+  },
+  {
+    "saleid": 725,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-03-29",
+    "amount": 1475.00
+  },
+  {
+    "saleid": 726,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-03-30",
+    "amount": 1285.00
+  },
+  {
+    "saleid": 727,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-03-31",
+    "amount": 1200.00
+  },
+  {
+    "saleid": 728,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-04-01",
+    "amount": 1365.00
+  },
+  {
+    "saleid": 729,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-04-02",
+    "amount": 1405.00
+  },
+  {
+    "saleid": 730,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-04-03",
+    "amount": 1145.00
+  },
+  {
+    "saleid": 731,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-03-30",
+    "amount": 815.00
+  },
+  {
+    "saleid": 732,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-03-31",
+    "amount": 735.00
+  },
+  {
+    "saleid": 733,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-04-01",
+    "amount": 1405.00
+  },
+  {
+    "saleid": 734,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-04-02",
+    "amount": 1185.00
+  },
+  {
+    "saleid": 735,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-04-03",
+    "amount": 1495.00
+  },
+  {
+    "saleid": 736,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-04-04",
+    "amount": 1305.00
+  },
+  {
+    "saleid": 737,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-04-05",
+    "amount": 1220.00
+  },
+  {
+    "saleid": 738,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-04-06",
+    "amount": 1385.00
+  },
+  {
+    "saleid": 739,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-04-07",
+    "amount": 1425.00
+  },
+  {
+    "saleid": 740,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-04-08",
+    "amount": 1165.00
+  },
+  {
+    "saleid": 741,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-03-15",
+    "amount": 825.00
+  },
+  {
+    "saleid": 742,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-03-16",
+    "amount": 745.00
+  },
+  {
+    "saleid": 743,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-03-17",
+    "amount": 1425.00
+  },
+  {
+    "saleid": 744,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-03-18",
+    "amount": 1205.00
+  },
+  {
+    "saleid": 745,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-03-19",
+    "amount": 1515.00
+  },
+  {
+    "saleid": 746,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-03-20",
+    "amount": 1325.00
+  },
+  {
+    "saleid": 747,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-03-21",
+    "amount": 1240.00
+  },
+  {
+    "saleid": 748,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-03-22",
+    "amount": 1405.00
+  },
+  {
+    "saleid": 749,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-03-23",
+    "amount": 1445.00
+  },
+  {
+    "saleid": 750,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-03-24",
+    "amount": 1185.00
+  },
+  {
+    "saleid": 751,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-04-15",
+    "amount": 835.00
+  },
+  {
+    "saleid": 752,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-04-16",
+    "amount": 755.00
+  },
+  {
+    "saleid": 753,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-04-17",
+    "amount": 1445.00
+  },
+  {
+    "saleid": 754,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-04-18",
+    "amount": 1225.00
+  },
+  {
+    "saleid": 755,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-04-19",
+    "amount": 1535.00
+  },
+  {
+    "saleid": 756,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-04-20",
+    "amount": 1345.00
+  },
+  {
+    "saleid": 757,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-04-21",
+    "amount": 1260.00
+  },
+  {
+    "saleid": 758,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-04-22",
+    "amount": 1425.00
+  },
+  {
+    "saleid": 759,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-04-23",
+    "amount": 1465.00
+  },
+  {
+    "saleid": 760,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-04-24",
+    "amount": 1205.00
+  },
+  {
+    "saleid": 761,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-04-25",
+    "amount": 845.00
+  },
+  {
+    "saleid": 762,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-04-26",
+    "amount": 765.00
+  },
+  {
+    "saleid": 763,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-04-27",
+    "amount": 1465.00
+  },
+  {
+    "saleid": 764,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-04-28",
+    "amount": 1245.00
+  },
+  {
+    "saleid": 765,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-04-29",
+    "amount": 1555.00
+  },
+  {
+    "saleid": 766,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-04-30",
+    "amount": 1365.00
+  },
+  {
+    "saleid": 767,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-05-01",
+    "amount": 1280.00
+  },
+  {
+    "saleid": 768,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-05-02",
+    "amount": 1445.00
+  },
+  {
+    "saleid": 769,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-05-03",
+    "amount": 1485.00
+  },
+  {
+    "saleid": 770,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-05-04",
+    "amount": 1225.00
+  },
+  {
+    "saleid": 771,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-04-25",
+    "amount": 855.00
+  },
+  {
+    "saleid": 772,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-04-26",
+    "amount": 775.00
+  },
+  {
+    "saleid": 773,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-04-27",
+    "amount": 1485.00
+  },
+  {
+    "saleid": 774,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-04-28",
+    "amount": 1265.00
+  },
+  {
+    "saleid": 775,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-04-29",
+    "amount": 1575.00
+  },
+  {
+    "saleid": 776,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-04-30",
+    "amount": 1385.00
+  },
+  {
+    "saleid": 777,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-05-01",
+    "amount": 1300.00
+  },
+  {
+    "saleid": 778,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-05-02",
+    "amount": 1465.00
+  },
+  {
+    "saleid": 779,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-05-03",
+    "amount": 1505.00
+  },
+  {
+    "saleid": 780,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-05-04",
+    "amount": 1245.00
+  },
+  {
+    "saleid": 781,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-04-30",
+    "amount": 865.00
+  },
+  {
+    "saleid": 782,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-05-01",
+    "amount": 785.00
+  },
+  {
+    "saleid": 783,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-05-02",
+    "amount": 1505.00
+  },
+  {
+    "saleid": 784,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-05-03",
+    "amount": 1285.00
+  },
+  {
+    "saleid": 785,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-05-04",
+    "amount": 1595.00
+  },
+  {
+    "saleid": 786,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-05-05",
+    "amount": 1405.00
+  },
+  {
+    "saleid": 787,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-05-06",
+    "amount": 1320.00
+  },
+  {
+    "saleid": 788,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-05-07",
+    "amount": 1485.00
+  },
+  {
+    "saleid": 789,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-05-08",
+    "amount": 1525.00
+  },
+  {
+    "saleid": 790,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-05-09",
+    "amount": 1265.00
+  },
+  {
+    "saleid": 791,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-04-15",
+    "amount": 875.00
+  },
+  {
+    "saleid": 792,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-04-16",
+    "amount": 795.00
+  },
+  {
+    "saleid": 793,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-04-17",
+    "amount": 1525.00
+  },
+  {
+    "saleid": 794,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-04-18",
+    "amount": 1305.00
+  },
+  {
+    "saleid": 795,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-04-19",
+    "amount": 1615.00
+  },
+  {
+    "saleid": 796,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-04-20",
+    "amount": 1425.00
+  },
+  {
+    "saleid": 797,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-04-21",
+    "amount": 1340.00
+  },
+  {
+    "saleid": 798,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-04-22",
+    "amount": 1505.00
+  },
+  {
+    "saleid": 799,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-04-23",
+    "amount": 1545.00
+  },
+  {
+    "saleid": 800,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-04-24",
+    "amount": 1285.00
+  },
+  {
+    "saleid": 801,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-05-15",
+    "amount": 885.00
+  },
+  {
+    "saleid": 802,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-05-16",
+    "amount": 805.00
+  },
+  {
+    "saleid": 803,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-05-17",
+    "amount": 1545.00
+  },
+  {
+    "saleid": 804,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-05-18",
+    "amount": 1325.00
+  },
+  {
+    "saleid": 805,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-05-19",
+    "amount": 1635.00
+  },
+  {
+    "saleid": 806,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-05-20",
+    "amount": 1445.00
+  },
+  {
+    "saleid": 807,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-05-21",
+    "amount": 1360.00
+  },
+  {
+    "saleid": 808,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-05-22",
+    "amount": 1525.00
+  },
+  {
+    "saleid": 809,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-05-23",
+    "amount": 1565.00
+  },
+  {
+    "saleid": 810,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-05-24",
+    "amount": 1305.00
+  },
+  {
+    "saleid": 811,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-05-25",
+    "amount": 895.00
+  },
+  {
+    "saleid": 812,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-05-26",
+    "amount": 815.00
+  },
+  {
+    "saleid": 813,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-05-27",
+    "amount": 1565.00
+  },
+  {
+    "saleid": 814,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-05-28",
+    "amount": 1345.00
+  },
+  {
+    "saleid": 815,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-05-29",
+    "amount": 1655.00
+  },
+  {
+    "saleid": 816,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-05-30",
+    "amount": 1465.00
+  },
+  {
+    "saleid": 817,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-05-31",
+    "amount": 1380.00
+  },
+  {
+    "saleid": 818,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-06-01",
+    "amount": 1545.00
+  },
+  {
+    "saleid": 819,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-06-02",
+    "amount": 1585.00
+  },
+  {
+    "saleid": 820,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-06-03",
+    "amount": 1325.00
+  },
+  {
+    "saleid": 821,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-05-25",
+    "amount": 905.00
+  },
+  {
+    "saleid": 822,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-05-26",
+    "amount": 825.00
+  },
+  {
+    "saleid": 823,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-05-27",
+    "amount": 1585.00
+  },
+  {
+    "saleid": 824,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-05-28",
+    "amount": 1365.00
+  },
+  {
+    "saleid": 825,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-05-29",
+    "amount": 1675.00
+  },
+  {
+    "saleid": 826,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-05-30",
+    "amount": 1485.00
+  },
+  {
+    "saleid": 827,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-05-31",
+    "amount": 1400.00
+  },
+  {
+    "saleid": 828,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-06-01",
+    "amount": 1565.00
+  },
+  {
+    "saleid": 829,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-06-02",
+    "amount": 1605.00
+  },
+  {
+    "saleid": 830,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-06-03",
+    "amount": 1345.00
+  },
+  {
+    "saleid": 831,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-05-30",
+    "amount": 915.00
+  },
+  {
+    "saleid": 832,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-05-31",
+    "amount": 835.00
+  },
+  {
+    "saleid": 833,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-06-01",
+    "amount": 1605.00
+  },
+  {
+    "saleid": 834,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-06-02",
+    "amount": 1385.00
+  },
+  {
+    "saleid": 835,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-06-03",
+    "amount": 1695.00
+  },
+  {
+    "saleid": 836,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-06-04",
+    "amount": 1505.00
+  },
+  {
+    "saleid": 837,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-06-05",
+    "amount": 1420.00
+  },
+  {
+    "saleid": 838,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-06-06",
+    "amount": 1585.00
+  },
+  {
+    "saleid": 839,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-06-07",
+    "amount": 1625.00
+  },
+  {
+    "saleid": 840,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-06-08",
+    "amount": 1365.00
+  },
+  {
+    "saleid": 841,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-05-15",
+    "amount": 925.00
+  },
+  {
+    "saleid": 842,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-05-16",
+    "amount": 845.00
+  },
+  {
+    "saleid": 843,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-05-17",
+    "amount": 1625.00
+  },
+  {
+    "saleid": 844,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-05-18",
+    "amount": 1405.00
+  },
+  {
+    "saleid": 845,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-05-19",
+    "amount": 1715.00
+  },
+  {
+    "saleid": 846,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-05-20",
+    "amount": 1525.00
+  },
+  {
+    "saleid": 847,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-05-21",
+    "amount": 1440.00
+  },
+  {
+    "saleid": 848,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-05-22",
+    "amount": 1605.00
+  },
+  {
+    "saleid": 849,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-05-23",
+    "amount": 1645.00
+  },
+  {
+    "saleid": 850,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-05-24",
+    "amount": 1385.00
+  },
+  {
+    "saleid": 851,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-06-15",
+    "amount": 935.00
+  },
+  {
+    "saleid": 852,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-06-16",
+    "amount": 855.00
+  },
+  {
+    "saleid": 853,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-06-17",
+    "amount": 1645.00
+  },
+  {
+    "saleid": 854,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-06-18",
+    "amount": 1425.00
+  },
+  {
+    "saleid": 855,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-06-19",
+    "amount": 1735.00
+  },
+  {
+    "saleid": 856,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-06-20",
+    "amount": 1545.00
+  },
+  {
+    "saleid": 857,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-06-21",
+    "amount": 1460.00
+  },
+  {
+    "saleid": 858,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-06-22",
+    "amount": 1625.00
+  },
+  {
+    "saleid": 859,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-06-23",
+    "amount": 1665.00
+  },
+  {
+    "saleid": 860,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-06-24",
+    "amount": 1405.00
+  },
+  {
+    "saleid": 861,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-06-25",
+    "amount": 945.00
+  },
+  {
+    "saleid": 862,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-06-26",
+    "amount": 865.00
+  },
+  {
+    "saleid": 863,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-06-27",
+    "amount": 1665.00
+  },
+  {
+    "saleid": 864,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-06-28",
+    "amount": 1445.00
+  },
+  {
+    "saleid": 865,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-06-29",
+    "amount": 1755.00
+  },
+  {
+    "saleid": 866,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-06-30",
+    "amount": 1565.00
+  },
+  {
+    "saleid": 867,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-07-01",
+    "amount": 1480.00
+  },
+  {
+    "saleid": 868,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-07-02",
+    "amount": 1645.00
+  },
+  {
+    "saleid": 869,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-07-03",
+    "amount": 1685.00
+  },
+  {
+    "saleid": 870,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-07-04",
+    "amount": 1425.00
+  },
+  {
+    "saleid": 871,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-06-25",
+    "amount": 955.00
+  },
+  {
+    "saleid": 872,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-06-26",
+    "amount": 875.00
+  },
+  {
+    "saleid": 873,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-06-27",
+    "amount": 1685.00
+  },
+  {
+    "saleid": 874,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-06-28",
+    "amount": 1465.00
+  },
+  {
+    "saleid": 875,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-06-29",
+    "amount": 1775.00
+  },
+  {
+    "saleid": 876,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-06-30",
+    "amount": 1585.00
+  },
+  {
+    "saleid": 877,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-07-01",
+    "amount": 1500.00
+  },
+  {
+    "saleid": 878,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-07-02",
+    "amount": 1665.00
+  },
+  {
+    "saleid": 879,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-07-03",
+    "amount": 1705.00
+  },
+  {
+    "saleid": 880,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-07-04",
+    "amount": 1445.00
+  },
+  {
+    "saleid": 881,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-06-30",
+    "amount": 965.00
+  },
+  {
+    "saleid": 882,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-07-01",
+    "amount": 885.00
+  },
+  {
+    "saleid": 883,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-07-02",
+    "amount": 1705.00
+  },
+  {
+    "saleid": 884,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-07-03",
+    "amount": 1485.00
+  },
+  {
+    "saleid": 885,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-07-04",
+    "amount": 1795.00
+  },
+  {
+    "saleid": 886,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-07-05",
+    "amount": 1605.00
+  },
+  {
+    "saleid": 887,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-07-06",
+    "amount": 1520.00
+  },
+  {
+    "saleid": 888,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-07-07",
+    "amount": 1685.00
+  },
+  {
+    "saleid": 889,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-07-08",
+    "amount": 1725.00
+  },
+  {
+    "saleid": 890,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-07-09",
+    "amount": 1465.00
+  },
+  {
+    "saleid": 891,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-06-15",
+    "amount": 975.00
+  },
+  {
+    "saleid": 892,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-06-16",
+    "amount": 895.00
+  },
+  {
+    "saleid": 893,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-06-17",
+    "amount": 1725.00
+  },
+  {
+    "saleid": 894,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-06-18",
+    "amount": 1505.00
+  },
+  {
+    "saleid": 895,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-06-19",
+    "amount": 1815.00
+  },
+  {
+    "saleid": 896,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-06-20",
+    "amount": 1625.00
+  },
+  {
+    "saleid": 897,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-06-21",
+    "amount": 1540.00
+  },
+  {
+    "saleid": 898,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-06-22",
+    "amount": 1705.00
+  },
+  {
+    "saleid": 899,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-06-23",
+    "amount": 1745.00
+  },
+  {
+    "saleid": 900,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-06-24",
+    "amount": 1485.00
+  },
+  {
+    "saleid": 901,
+    "userid": 1,
+    "customerid": 101,
+    "date": "2024-07-15",
+    "amount": 985.00
+  },
+  {
+    "saleid": 902,
+    "userid": 2,
+    "customerid": 102,
+    "date": "2024-07-16",
+    "amount": 905.00
+  },
+  {
+    "saleid": 903,
+    "userid": 3,
+    "customerid": 103,
+    "date": "2024-07-17",
+    "amount": 1745.00
+  },
+  {
+    "saleid": 904,
+    "userid": 4,
+    "customerid": 104,
+    "date": "2024-07-18",
+    "amount": 1525.00
+  },
+  {
+    "saleid": 905,
+    "userid": 5,
+    "customerid": 105,
+    "date": "2024-07-19",
+    "amount": 1835.00
+  },
+  {
+    "saleid": 906,
+    "userid": 6,
+    "customerid": 106,
+    "date": "2024-07-20",
+    "amount": 1645.00
+  },
+  {
+    "saleid": 907,
+    "userid": 7,
+    "customerid": 107,
+    "date": "2024-07-21",
+    "amount": 1560.00
+  },
+  {
+    "saleid": 908,
+    "userid": 8,
+    "customerid": 108,
+    "date": "2024-07-22",
+    "amount": 1725.00
+  },
+  {
+    "saleid": 909,
+    "userid": 9,
+    "customerid": 109,
+    "date": "2024-07-23",
+    "amount": 1765.00
+  },
+  {
+    "saleid": 910,
+    "userid": 10,
+    "customerid": 110,
+    "date": "2024-07-24",
+    "amount": 1505.00
+  },
+  {
+    "saleid": 911,
+    "userid": 1,
+    "customerid": 102,
+    "date": "2023-07-25",
+    "amount": 995.00
+  },
+  {
+    "saleid": 912,
+    "userid": 2,
+    "customerid": 103,
+    "date": "2023-07-26",
+    "amount": 915.00
+  },
+  {
+    "saleid": 913,
+    "userid": 3,
+    "customerid": 104,
+    "date": "2023-07-27",
+    "amount": 1765.00
+  },
+  {
+    "saleid": 914,
+    "userid": 4,
+    "customerid": 105,
+    "date": "2023-07-28",
+    "amount": 1545.00
+  },
+  {
+    "saleid": 915,
+    "userid": 5,
+    "customerid": 106,
+    "date": "2023-07-29",
+    "amount": 1855.00
+  },
+  {
+    "saleid": 916,
+    "userid": 6,
+    "customerid": 107,
+    "date": "2023-07-30",
+    "amount": 1665.00
+  },
+  {
+    "saleid": 917,
+    "userid": 7,
+    "customerid": 108,
+    "date": "2023-07-31",
+    "amount": 1580.00
+  },
+  {
+    "saleid": 918,
+    "userid": 8,
+    "customerid": 109,
+    "date": "2023-08-01",
+    "amount": 1745.00
+  },
+  {
+    "saleid": 919,
+    "userid": 9,
+    "customerid": 110,
+    "date": "2023-08-02",
+    "amount": 1785.00
+  },
+  {
+    "saleid": 920,
+    "userid": 10,
+    "customerid": 101,
+    "date": "2023-08-03",
+    "amount": 1525.00
+  },
+  {
+    "saleid": 921,
+    "userid": 1,
+    "customerid": 103,
+    "date": "2022-07-25",
+    "amount": 1005.00
+  },
+  {
+    "saleid": 922,
+    "userid": 2,
+    "customerid": 104,
+    "date": "2022-07-26",
+    "amount": 925.00
+  },
+  {
+    "saleid": 923,
+    "userid": 3,
+    "customerid": 105,
+    "date": "2022-07-27",
+    "amount": 1785.00
+  },
+  {
+    "saleid": 924,
+    "userid": 4,
+    "customerid": 106,
+    "date": "2022-07-28",
+    "amount": 1565.00
+  },
+  {
+    "saleid": 925,
+    "userid": 5,
+    "customerid": 107,
+    "date": "2022-07-29",
+    "amount": 1875.00
+  },
+  {
+    "saleid": 926,
+    "userid": 6,
+    "customerid": 108,
+    "date": "2022-07-30",
+    "amount": 1685.00
+  },
+  {
+    "saleid": 927,
+    "userid": 7,
+    "customerid": 109,
+    "date": "2022-07-31",
+    "amount": 1600.00
+  },
+  {
+    "saleid": 928,
+    "userid": 8,
+    "customerid": 110,
+    "date": "2022-08-01",
+    "amount": 1765.00
+  },
+  {
+    "saleid": 929,
+    "userid": 9,
+    "customerid": 101,
+    "date": "2022-08-02",
+    "amount": 1805.00
+  },
+  {
+    "saleid": 930,
+    "userid": 10,
+    "customerid": 102,
+    "date": "2022-08-03",
+    "amount": 1545.00
+  },
+  {
+    "saleid": 931,
+    "userid": 1,
+    "customerid": 104,
+    "date": "2021-07-30",
+    "amount": 1015.00
+  },
+  {
+    "saleid": 932,
+    "userid": 2,
+    "customerid": 105,
+    "date": "2021-07-31",
+    "amount": 935.00
+  },
+  {
+    "saleid": 933,
+    "userid": 3,
+    "customerid": 106,
+    "date": "2021-08-01",
+    "amount": 1805.00
+  },
+  {
+    "saleid": 934,
+    "userid": 4,
+    "customerid": 107,
+    "date": "2021-08-02",
+    "amount": 1585.00
+  },
+  {
+    "saleid": 935,
+    "userid": 5,
+    "customerid": 108,
+    "date": "2021-08-03",
+    "amount": 1895.00
+  },
+  {
+    "saleid": 936,
+    "userid": 6,
+    "customerid": 109,
+    "date": "2021-08-04",
+    "amount": 1705.00
+  },
+  {
+    "saleid": 937,
+    "userid": 7,
+    "customerid": 110,
+    "date": "2021-08-05",
+    "amount": 1620.00
+  },
+  {
+    "saleid": 938,
+    "userid": 8,
+    "customerid": 101,
+    "date": "2021-08-06",
+    "amount": 1785.00
+  },
+  {
+    "saleid": 939,
+    "userid": 9,
+    "customerid": 102,
+    "date": "2021-08-07",
+    "amount": 1825.00
+  },
+  {
+    "saleid": 940,
+    "userid": 10,
+    "customerid": 103,
+    "date": "2021-08-08",
+    "amount": 1565.00
+  },
+  {
+    "saleid": 941,
+    "userid": 1,
+    "customerid": 105,
+    "date": "2025-07-15",
+    "amount": 1025.00
+  },
+  {
+    "saleid": 942,
+    "userid": 2,
+    "customerid": 106,
+    "date": "2025-07-16",
+    "amount": 945.00
+  },
+  {
+    "saleid": 943,
+    "userid": 3,
+    "customerid": 107,
+    "date": "2025-07-17",
+    "amount": 1825.00
+  },
+  {
+    "saleid": 944,
+    "userid": 4,
+    "customerid": 108,
+    "date": "2025-07-18",
+    "amount": 1605.00
+  },
+  {
+    "saleid": 945,
+    "userid": 5,
+    "customerid": 109,
+    "date": "2025-07-19",
+    "amount": 1915.00
+  },
+  {
+    "saleid": 946,
+    "userid": 6,
+    "customerid": 110,
+    "date": "2025-07-20",
+    "amount": 1725.00
+  },
+  {
+    "saleid": 947,
+    "userid": 7,
+    "customerid": 101,
+    "date": "2025-07-21",
+    "amount": 1640.00
+  },
+  {
+    "saleid": 948,
+    "userid": 8,
+    "customerid": 102,
+    "date": "2025-07-22",
+    "amount": 1805.00
+  },
+  {
+    "saleid": 949,
+    "userid": 9,
+    "customerid": 103,
+    "date": "2025-07-23",
+    "amount": 1845.00
+  },
+  {
+    "saleid": 950,
+    "userid": 10,
+    "customerid": 104,
+    "date": "2025-07-24",
+    "amount": 1585.00
+  },
+  {
+    "saleid": 951,
+    "userid": 1,
+    "customerid": 106,
+    "date": "2024-08-15",
+    "amount": 1035.00
+  },
+  {
+    "saleid": 952,
+    "userid": 2,
+    "customerid": 107,
+    "date": "2024-08-16",
+    "amount": 955.00
+  },
+  {
+    "saleid": 953,
+    "userid": 3,
+    "customerid": 108,
+    "date": "2024-08-17",
+    "amount": 1845.00
+  },
+  {
+    "saleid": 954,
+    "userid": 4,
+    "customerid": 109,
+    "date": "2024-08-18",
+    "amount": 1625.00
+  },
+  {
+    "saleid": 955,
+    "userid": 5,
+    "customerid": 110,
+    "date": "2024-08-19",
+    "amount": 1935.00
+  },
+  {
+    "saleid": 956,
+    "userid": 6,
+    "customerid": 101,
+    "date": "2024-08-20",
+    "amount": 1745.00
+  },
+  {
+    "saleid": 957,
+    "userid": 7,
+    "customerid": 102,
+    "date": "2024-08-21",
+    "amount": 1660.00
+  },
+  {
+    "saleid": 958,
+    "userid": 8,
+    "customerid": 103,
+    "date": "2024-08-22",
+    "amount": 1825.00
+  },
+  {
+    "saleid": 959,
+    "userid": 9,
+    "customerid": 104,
+    "date": "2024-08-23",
+    "amount": 1865.00
+  },
+  {
+    "saleid": 960,
+    "userid": 10,
+    "customerid": 105,
+    "date": "2024-08-24",
+    "amount": 1605.00
+  },
+  {
+    "saleid": 961,
+    "userid": 1,
+    "customerid": 107,
+    "date": "2023-08-25",
+    "amount": 1045.00
+  },
+  {
+    "saleid": 962,
+    "userid": 2,
+    "customerid": 108,
+    "date": "2023-08-26",
+    "amount": 965.00
+  },
+  {
+    "saleid": 963,
+    "userid": 3,
+    "customerid": 109,
+    "date": "2023-08-27",
+    "amount": 1865.00
+  },
+  {
+    "saleid": 964,
+    "userid": 4,
+    "customerid": 110,
+    "date": "2023-08-28",
+    "amount": 1645.00
+  },
+  {
+    "saleid": 965,
+    "userid": 5,
+    "customerid": 101,
+    "date": "2023-08-29",
+    "amount": 1955.00
+  },
+  {
+    "saleid": 966,
+    "userid": 6,
+    "customerid": 102,
+    "date": "2023-08-30",
+    "amount": 1765.00
+  },
+  {
+    "saleid": 967,
+    "userid": 7,
+    "customerid": 103,
+    "date": "2023-08-31",
+    "amount": 1680.00
+  },
+  {
+    "saleid": 968,
+    "userid": 8,
+    "customerid": 104,
+    "date": "2023-09-01",
+    "amount": 1845.00
+  },
+  {
+    "saleid": 969,
+    "userid": 9,
+    "customerid": 105,
+    "date": "2023-09-02",
+    "amount": 1885.00
+  },
+  {
+    "saleid": 970,
+    "userid": 10,
+    "customerid": 106,
+    "date": "2023-09-03",
+    "amount": 1625.00
+  },
+  {
+    "saleid": 971,
+    "userid": 1,
+    "customerid": 108,
+    "date": "2022-08-25",
+    "amount": 1055.00
+  },
+  {
+    "saleid": 972,
+    "userid": 2,
+    "customerid": 109,
+    "date": "2022-08-26",
+    "amount": 975.00
+  },
+  {
+    "saleid": 973,
+    "userid": 3,
+    "customerid": 110,
+    "date": "2022-08-27",
+    "amount": 1885.00
+  },
+  {
+    "saleid": 974,
+    "userid": 4,
+    "customerid": 101,
+    "date": "2022-08-28",
+    "amount": 1665.00
+  },
+  {
+    "saleid": 975,
+    "userid": 5,
+    "customerid": 102,
+    "date": "2022-08-29",
+    "amount": 1975.00
+  },
+  {
+    "saleid": 976,
+    "userid": 6,
+    "customerid": 103,
+    "date": "2022-08-30",
+    "amount": 1785.00
+  },
+  {
+    "saleid": 977,
+    "userid": 7,
+    "customerid": 104,
+    "date": "2022-08-31",
+    "amount": 1700.00
+  },
+  {
+    "saleid": 978,
+    "userid": 8,
+    "customerid": 105,
+    "date": "2022-09-01",
+    "amount": 1865.00
+  },
+  {
+    "saleid": 979,
+    "userid": 9,
+    "customerid": 106,
+    "date": "2022-09-02",
+    "amount": 1905.00
+  },
+  {
+    "saleid": 980,
+    "userid": 10,
+    "customerid": 107,
+    "date": "2022-09-03",
+    "amount": 1645.00
+  },
+  {
+    "saleid": 981,
+    "userid": 1,
+    "customerid": 109,
+    "date": "2021-08-30",
+    "amount": 1065.00
+  },
+  {
+    "saleid": 982,
+    "userid": 2,
+    "customerid": 110,
+    "date": "2021-08-31",
+    "amount": 985.00
+  },
+  {
+    "saleid": 983,
+    "userid": 3,
+    "customerid": 101,
+    "date": "2021-09-01",
+    "amount": 1905.00
+  },
+  {
+    "saleid": 984,
+    "userid": 4,
+    "customerid": 102,
+    "date": "2021-09-02",
+    "amount": 1685.00
+  },
+  {
+    "saleid": 985,
+    "userid": 5,
+    "customerid": 103,
+    "date": "2021-09-03",
+    "amount": 1995.00
+  },
+  {
+    "saleid": 986,
+    "userid": 6,
+    "customerid": 104,
+    "date": "2021-09-04",
+    "amount": 1805.00
+  },
+  {
+    "saleid": 987,
+    "userid": 7,
+    "customerid": 105,
+    "date": "2021-09-05",
+    "amount": 1720.00
+  },
+  {
+    "saleid": 988,
+    "userid": 8,
+    "customerid": 106,
+    "date": "2021-09-06",
+    "amount": 1885.00
+  },
+  {
+    "saleid": 989,
+    "userid": 9,
+    "customerid": 107,
+    "date": "2021-09-07",
+    "amount": 1925.00
+  },
+  {
+    "saleid": 990,
+    "userid": 10,
+    "customerid": 108,
+    "date": "2021-09-08",
+    "amount": 1665.00
+  },
+  {
+    "saleid": 991,
+    "userid": 1,
+    "customerid": 110,
+    "date": "2025-08-15",
+    "amount": 1075.00
+  },
+  {
+    "saleid": 992,
+    "userid": 2,
+    "customerid": 101,
+    "date": "2025-08-16",
+    "amount": 995.00
+  },
+  {
+    "saleid": 993,
+    "userid": 3,
+    "customerid": 102,
+    "date": "2025-08-17",
+    "amount": 1925.00
+  },
+  {
+    "saleid": 994,
+    "userid": 4,
+    "customerid": 103,
+    "date": "2025-08-18",
+    "amount": 1705.00
+  },
+  {
+    "saleid": 995,
+    "userid": 5,
+    "customerid": 104,
+    "date": "2025-08-19",
+    "amount": 2015.00
+  },
+  {
+    "saleid": 996,
+    "userid": 6,
+    "customerid": 105,
+    "date": "2025-08-20",
+    "amount": 1825.00
+  },
+  {
+    "saleid": 997,
+    "userid": 7,
+    "customerid": 106,
+    "date": "2025-08-21",
+    "amount": 1740.00
+  },
+  {
+    "saleid": 998,
+    "userid": 8,
+    "customerid": 107,
+    "date": "2025-08-22",
+    "amount": 1905.00
+  },
+  {
+    "saleid": 999,
+    "userid": 9,
+    "customerid": 108,
+    "date": "2025-08-23",
+    "amount": 1945.00
+  },
+  {
+    "saleid": 1000,
+    "userid": 10,
+    "customerid": 109,
+    "date": "2025-08-24",
+    "amount": 1685.00
+  }
+]

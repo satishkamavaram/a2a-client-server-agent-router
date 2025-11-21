@@ -1,0 +1,72 @@
+[
+  {
+    "userid": 1,
+    "firstname": "Alice",
+    "lastname": "Smith",
+    "emailid": "alice.smith@example.com",
+    "gender": "Female"
+  },
+  {
+    "userid": 2,
+    "firstname": "Bob",
+    "lastname": "Johnson",
+    "emailid": "bob.johnson@example.com",
+    "gender": "Male"
+  },
+  {
+    "userid": 3,
+    "firstname": "Carol",
+    "lastname": "Williams",
+    "emailid": "carol.williams@example.com",
+    "gender": "Female"
+  },
+  {
+    "userid": 4,
+    "firstname": "David",
+    "lastname": "Brown",
+    "emailid": "david.brown@example.com",
+    "gender": "Male"
+  },
+  {
+    "userid": 5,
+    "firstname": "Eve",
+    "lastname": "Jones",
+    "emailid": "eve.jones@example.com",
+    "gender": "Female"
+  },
+  {
+    "userid": 6,
+    "firstname": "Frank",
+    "lastname": "Garcia",
+    "emailid": "frank.garcia@example.com",
+    "gender": "Male"
+  },
+  {
+    "userid": 7,
+    "firstname": "Grace",
+    "lastname": "Martinez",
+    "emailid": "grace.martinez@example.com",
+    "gender": "Female"
+  },
+  {
+    "userid": 8,
+    "firstname": "Henry",
+    "lastname": "Rodriguez",
+    "emailid": "henry.rodriguez@example.com",
+    "gender": "Male"
+  },
+  {
+    "userid": 9,
+    "firstname": "Ivy",
+    "lastname": "Lee",
+    "emailid": "ivy.lee@example.com",
+    "gender": "Female"
+  },
+  {
+    "userid": 10,
+    "firstname": "Jack",
+    "lastname": "Walker",
+    "emailid": "jack.walker@example.com",
+    "gender": "Male"
+  }
+]

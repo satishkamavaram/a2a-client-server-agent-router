@@ -1,0 +1,92 @@
+[
+  {
+    "addressid": 1,
+    "userid": 1,
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "country": "USA"
+  },
+  {
+    "addressid": 2,
+    "userid": 2,
+    "street": "456 Oak Ave",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90001",
+    "country": "USA"
+  },
+  {
+    "addressid": 3,
+    "userid": 3,
+    "street": "789 Pine Rd",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601",
+    "country": "USA"
+  },
+  {
+    "addressid": 4,
+    "userid": 4,
+    "street": "321 Maple Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77001",
+    "country": "USA"
+  },
+  {
+    "addressid": 5,
+    "userid": 5,
+    "street": "654 Cedar Ln",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85001",
+    "country": "USA"
+  },
+  {
+    "addressid": 6,
+    "userid": 6,
+    "street": "987 Birch Blvd",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19101",
+    "country": "USA"
+  },
+  {
+    "addressid": 7,
+    "userid": 7,
+    "street": "246 Spruce St",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78201",
+    "country": "USA"
+  },
+  {
+    "addressid": 8,
+    "userid": 8,
+    "street": "135 Elm St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92101",
+    "country": "USA"
+  },
+  {
+    "addressid": 9,
+    "userid": 9,
+    "street": "864 Willow Ave",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75201",
+    "country": "USA"
+  },
+  {
+    "addressid": 10,
+    "userid": 10,
+    "street": "579 Aspen Ct",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95101",
+    "country": "USA"
+  }
+]

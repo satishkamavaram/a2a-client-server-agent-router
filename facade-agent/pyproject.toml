@@ -1,0 +1,77 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ai-app"
+dynamic = ["version"]
+description = ''
+#readme = "./README.md"
+requires-python = ">=3.8"
+license = "MIT"
+keywords = []
+authors = []
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3.8",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: Implementation :: CPython",
+  "Programming Language :: Python :: Implementation :: PyPy",
+]
+dependencies = [
+  "requests==2.32.5",
+  "httpx==0.28.1",
+  "loguru==0.7.3",
+  "python-keycloak==5.8.1",
+  "pytz==2024.1",
+  "fastapi==0.111.0",
+  "sqlalchemy==2.0.43",
+  "asyncpg==0.30.0",
+  "strands-agents==1.10.0",
+  "strands-agents-tools==0.2.9",
+  "strands-agents[openai]==1.10.0",
+  "strands-agents[litellm]==1.10.0",
+  "python-dotenv==1.1.1",
+  "pymongo==4.15.2",
+  "asyncpg==0.30.0",
+  "a2a-sdk==0.3.10",
+  "pydantic-settings==2.11.0",
+]
+
+[project.urls]
+Documentation = "https://github.com/U.N. Owen/ai-app#readme"
+Issues = "https://github.com/U.N. Owen/ai-app/issues"
+Source = "https://github.com/U.N. Owen/ai-app"
+
+[tool.hatch.version]
+path = "src/ai_app/__about__.py"
+
+[tool.hatch.envs.types]
+extra-dependencies = [
+  "mypy>=1.0.0",
+]
+[tool.hatch.envs.types.scripts]
+check = "mypy --install-types --non-interactive {args:src/ai_app tests}"
+
+[tool.coverage.run]
+source_pkgs = ["ai_app", "tests"]
+branch = true
+parallel = true
+omit = [
+  "src/ai_app/__about__.py",
+]
+
+[tool.coverage.paths]
+ai_app = ["src/ai_app", "*/ai-app/src/ai_app"]
+tests = ["tests", "*/ai-app/tests"]
+
+[tool.coverage.report]
+exclude_lines = [
+  "no cov",
+  "if __name__ == .__main__.:",
+  "if TYPE_CHECKING:",
+]
