@@ -36,8 +36,6 @@ api_key = os.environ.get('OPENAI_API_KEY').strip()
 
 db_agent_url = os.environ.get('DB_AGENT_URL').strip()
 
-requirement_agent_url = os.environ.get('REQUIREMENT_AGENT_URL').strip()
-
 jira_agent_url = os.environ.get('JIRA_AGENT_URL').strip()
 
 

@@ -16,12 +16,15 @@ import os
 from strands.tools.mcp.mcp_client import MCPClient
 from mcp.client.streamable_http import streamablehttp_client
 from context_vars import get_access_token
+from redis_semantic_cache import get_cache
 logger = logging.getLogger(__name__)
 
 load_dotenv()
 
 api_key = os.environ.get('OPENAI_API_KEY').strip()
 mcp_server_url = os.environ.get('MCP_SERVER_URL').strip()
+redis_enabled = os.getenv('REDIS_ENABLED', 'false').lower() == 'true'
+cache = get_cache()
 
 
 def extract_tool_info(event):
@@ -119,46 +122,75 @@ class JiraAgent:
         logger.debug(
             f"Starting stream with query: {query} and context_id: {context_id}")
         try:
-            agent = await self.get_agent()
-            print("agent object received::", agent)
-            # Use the context_id as the thread_id, or generate a new one if none provided
+            cache_result = None
+            if redis_enabled:
+                cache_result = cache.get_from_cache(
+                    user_question=query,
+                    distance_threshold=0.2
+                )
+            if cache_result:
+                yield {
+                    'is_task_complete': False,
+                    'require_user_input': False,
+                    'content': f'cache hit... matching query in cache - {cache_result[0]["prompt"]}',
+                }
+                yield {
+                    'is_task_complete': True,
+                    'require_user_input': False,
+                    'content': cache_result[0]["response"],
+                }
+                print("sending response from cache")
+            else:
+                yield {
+                    'is_task_complete': False,
+                    'require_user_input': False,
+                    'content': 'cache miss...',
+                }
+                agent = await self.get_agent()
+                print("agent object received::", agent)
+                # Use the context_id as the thread_id, or generate a new one if none provided
 
-            agent_stream = agent.stream_async(query)
-            full_response = ""
-            total_tokens = 0
-            async for event in agent_stream:
-                # print("((((((((((()))))))))))", event)
-                if 'message' in event:
-                    tool_calls = extract_tool_info(event)
-                    if tool_calls:
-                        for tool in tool_calls:
-                            print(
-                                f"Tool called: {tool['name']} with args: {tool['input']}")
-                            yield {
-                                'is_task_complete': False,
-                                'require_user_input': False,
-                                'content': f"Executing tool: {tool['name']} with arguments {tool['input']}",
-                            }
-                elif "data" in event:
-                    chunk = event["data"]
-                # print("============chunk::::", chunk)
-                    full_response += chunk
-                elif 'result' in event:
-                    result = event['result']
-                    if hasattr(result, 'metrics') and result.metrics:
-                        if hasattr(result.metrics, 'accumulated_usage') and result.metrics.accumulated_usage:
-                            total_tokens = result.metrics.accumulated_usage.get(
-                                'totalTokens', 0)
-            print("============Task completed=======")
-            print(f"\n{full_response}")
-            print(f"\n{total_tokens}")
-
-            token_message = f"Total Tokens Consumed: {total_tokens}"
-            yield {
-                'is_task_complete': True,
-                'require_user_input': False,
-                'content': full_response + "\n\n" + token_message,
-            }
+                agent_stream = agent.stream_async(query)
+                full_response = ""
+                total_tokens = 0
+                async for event in agent_stream:
+                    # print("((((((((((()))))))))))", event)
+                    if 'message' in event:
+                        tool_calls = extract_tool_info(event)
+                        if tool_calls:
+                            for tool in tool_calls:
+                                print(
+                                    f"Tool called: {tool['name']} with args: {tool['input']}")
+                                yield {
+                                    'is_task_complete': False,
+                                    'require_user_input': False,
+                                    'content': f"Executing tool: {tool['name']} with arguments {tool['input']}",
+                                }
+                    elif "data" in event:
+                        chunk = event["data"]
+                    # print("============chunk::::", chunk)
+                        full_response += chunk
+                    elif 'result' in event:
+                        result = event['result']
+                        if hasattr(result, 'metrics') and result.metrics:
+                            if hasattr(result.metrics, 'accumulated_usage') and result.metrics.accumulated_usage:
+                                total_tokens = result.metrics.accumulated_usage.get(
+                                    'totalTokens', 0)
+                print("============Task completed=======")
+                print(f"\n{full_response}")
+                print(f"\n{total_tokens}")
+                print("storing in redis cache query and llm response")
+                cache.store(
+                    user_question=query,
+                    llm_answer=full_response,
+                    ttl=60
+                )
+                token_message = f"Total Tokens Consumed: {total_tokens}"
+                yield {
+                    'is_task_complete': True,
+                    'require_user_input': False,
+                    'content': full_response + "\n\n" + token_message,
+                }
         except Exception as e:
             full_response = f"Error executing query: {str(e)}"
             print("============Task completed=======")

@@ -17,7 +17,8 @@ A multi-agent orchestration system that intelligently routes user queries to spe
 - show me largest sale happened in 2025
 
 **Jira Agent**: Jira-focused assistant powered via MCP tools
-- Fetch tickets, map userId → email, and create appointments via tools
+- Fetch tickets, map userId → email, create appointments via tools
+- Semantic caching: checks Redis for prior answer to a similar question (embedding/key match) before calling the LLM; on miss it generates a fresh response and stores it.
 
 **Orchestration Agent**: Smart router that determines which specialist agent to invoke
 - Intelligent query analysis and routing
@@ -47,6 +48,11 @@ User → Frontend (WebSocket) → Facade (8081) → Orchestration (10003) → [D
 
 ## Components & Ports
 - PostgreSQL DB Agent: 10000
+-   Postgres runtime & schema files located in `postgres-db-agent/db/`:
+  - `docker-compose.yml` (starts Postgres 15 on 5432 with admin/admin)
+  - `init.sql` (role/database grants)
+  - `postgres.ddl` (base tables)
+  - `bulk-insert.sql` (sample data load)
 - Jira Agent: 10002
 - Orchestration Agent: 10003
 - Facade (WebSocket): 8081
@@ -59,6 +65,8 @@ User → Frontend (WebSocket) → Facade (8081) → Orchestration (10003) → [D
 - Python 3.10+
 - PostgreSQL database (for DB agent)
 - An OpenAI API key
+- redis server
+- keycloak server
 
 Create a `.env` file in each agent directory with:
 
@@ -79,6 +87,7 @@ Each agent/facade/mcp requires its own virtual environment and dependencies. Fol
 - Jira Agent (10002):
   - OPENAI_API_KEY
   - MCP_SERVER_URL (e.g., http://localhost:8001/mcp)
+  - REDIS_ENABLED
 
 
 ### 2. PostgreSQL Database Agent Setup (Port 10000)
@@ -86,8 +95,8 @@ From the `postgres-db-agent/` folder:
 
 ```bash
 # Create and activate virtual environment
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -106,9 +115,9 @@ From the repo root (FastMCP server at `mcp/mcp_server.py`):
 
 ```bash
 # (Optional) Use a dedicated venv
-python3 -m venv .venv-mcp
-source .venv-mcp/bin/activate
-pip install fastmcp
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ```
 
 ### 4. Jira Agent Setup (Port 10002)
@@ -116,8 +125,8 @@ From the `jira-agent/` folder:
 
 ```bash
 # Create and activate virtual environment
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -126,6 +135,7 @@ pip install -r requirements.txt
 cat > .env << 'EOF'
 OPENAI_API_KEY=your_openai_api_key
 MCP_SERVER_URL=http://localhost:8001/mcp
+REDIS_ENABLED=True
 EOF
 ```
 
@@ -134,8 +144,8 @@ From the `orchestration-agent/` folder:
 
 ```bash
 # Create and activate virtual environment
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
@@ -159,28 +169,48 @@ EOF
 ### 1. Start MCP Server (Port 8001)
 ```bash
 cd mcp/
-source .venv-mcp/bin/activate
+source venv/bin/activate
 python mcp_server.py
 ```
 
 ### 2. Start PostgreSQL Database Agent (Port 10000)
 ```bash
 cd postgres-db-agent/
-source .venv/bin/activate
+source venv/bin/activate
 python a2a_postgres_agent.py
+```
+Initialize database schema (once, after Postgres server is running):
+```bash
+# Assuming local Postgres with user 'admin', database 'ai'
+# Adjust -U and -d if your credentials differ
+psql -h localhost -U admin -d ai -f postgres-db-agent/postgres.ddl
+
+# Verify tables
+psql -h localhost -U admin -d ai -c "\dt"
 ```
 
 ### 3. Start Jira Agent (Port 10002)
+Start Redis first (required for semantic caching). From inside `jira-agent/` run docker-compose:
 ```bash
 cd jira-agent/
-source .venv/bin/activate
+docker compose up -d  # starts redis on port 6379 (password: redispass123)
+```
+Confirm it's up:
+```bash
+redis-cli -a redispass123 PING  # should return PONG
+```
+
+Then start the Jira agent:
+```bash
+cd jira-agent/
+source venv/bin/activate
 python a2a_jira_server.py
 ```
 
 ### 4. Start Orchestration Agent (Port 10003)
 ```bash
 cd orchestration-agent/
-source .venv/bin/activate
+source venv/bin/activate
 python orchestration_agent.py
 ```
 
@@ -236,7 +266,7 @@ curl -H "Authorization: Bearer your_token" \
 ```
 
 Or simply visit in your browser:
-- http://localhost:10001/.well-known/agent-card.json
+
 - http://localhost:10000/.well-known/agent-card.json  
 - http://localhost:10003/.well-known/agent-card.json
 - http://localhost:10002/.well-known/agent-card.json
