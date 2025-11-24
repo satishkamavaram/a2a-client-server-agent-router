@@ -48,11 +48,7 @@ User → Frontend (WebSocket) → Facade (8081) → Orchestration (10003) → [D
 
 ## Components & Ports
 - PostgreSQL DB Agent: 10000
--   Postgres runtime & schema files located in `postgres-db-agent/db/`:
-  - `docker-compose.yml` (starts Postgres 15 on 5432 with admin/admin)
-  - `init.sql` (role/database grants)
-  - `postgres.ddl` (base tables)
-  - `bulk-insert.sql` (sample data load)
+- Postgres server & schema files located in `postgres-db-agent/db/`
 - Jira Agent: 10002
 - Orchestration Agent: 10003
 - Facade (WebSocket): 8081
