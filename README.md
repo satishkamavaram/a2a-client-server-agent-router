@@ -1,3 +1,5 @@
+> **⚠️ POC DISCLAIMER: This is a Proof of Concept (POC) implementation. Please do not evaluate this code for production-level code structure, modularity, or best practices. This project is designed for educational and demonstration purposes only.**
+
 # A2A Agent Orchestration System
 
 ## Table of contents
