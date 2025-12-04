@@ -22,6 +22,13 @@ A multi-agent orchestration system that intelligently routes user queries to spe
 - Fetch tickets, map userId → email, create appointments via tools
 - Semantic caching: checks Redis for prior answer to a similar question (embedding/key match) before calling the LLM; on miss it generates a fresh response and stores it.
 
+### Jira Agent Flow (cache and avoid false positives)
+1. Check cache (RedisVL) for a semantically similar user question.
+2. If no similar question is found in cache: query the agent to produce a fresh answer and store it.
+3. If a similar question is found in cache: validate with the similarity agent to confirm the match.
+  - If it matches: return the cached result (from RedisVL).
+  - If it does not match: query the agent to produce a fresh answer and update the cache.
+
 **Orchestration Agent**: Smart router that determines which specialist agent to invoke
 - Intelligent query analysis and routing
 - A2A protocol communication between agents
@@ -181,7 +188,7 @@ Initialize database schema (once, after Postgres server is running):
 ```bash
 # Assuming local Postgres with user 'admin', database 'ai'
 # Adjust -U and -d if your credentials differ
-psql -h localhost -U admin -d ai -f postgres-db-agent/postgres.ddl
+psql -h localhost -U admin -d ai -f postgres-db-agent/db/postgres.ddl
 
 # Verify tables
 psql -h localhost -U admin -d ai -c "\dt"

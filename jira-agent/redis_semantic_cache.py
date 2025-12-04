@@ -8,6 +8,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# cache in redis
+# [{'entry_id': '2990b8f25d9f7a585798544a7231ffcec5f0ef7507691f077cf70ba889af83ee', 'prompt': 'What is Java?', 'response': 'Java is a programming language', 'vector_distance': 0.246054828167,
+#    'inserted_at': 1763994769.61, 'updated_at': 1763994769.61, 'metadata': {'key1': 'value1', 'key2': 'value2'}, 'key': 'llm-cache:2990b8f25d9f7a585798544a7231ffcec5f0ef7507691f077cf70ba889af83ee'}]
+
 
 class RedisCache:
     def __init__(self):
@@ -44,7 +48,7 @@ class RedisCache:
                 name="llm-cache",
                 vectorizer=vectorizer,
                 redis_client=redis_client,
-                distance_threshold=0.2
+                distance_threshold=0.5
             )
 
         except Exception as e:
