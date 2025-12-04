@@ -126,12 +126,12 @@ class JiraAgent:
 
         Examples:
         - Example 1 → False
-        statement 1: what are dependencies of live contract 6.0.0
-        statement 2: deployable dependencies of LIVE CONTRACT version 6.0.0 list by category
+        statement 1: what are dependencies of test 1.0.0
+        statement 2: deployable dependencies of test version 1.0.0 list by category
 
         - Example 2 → True
-        statement 1: what are dependencies of live contract 6.0.0
-        statement 2: dependencies of LIVE CONTRACT version 6.0.0 """
+        statement 1: what are dependencies of test 1.0.0
+        statement 2: dependencies of test version 1.0.0 """
         return Agent(model=self.model, tools=[], system_prompt=prompt,
                      callback_handler=None)
 
