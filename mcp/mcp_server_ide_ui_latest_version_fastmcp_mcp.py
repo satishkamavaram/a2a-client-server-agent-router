@@ -3,49 +3,19 @@
 #fastmcp==3.1.0
 #mcp==1.26.0
 """
-from fastmcp.server.auth import RemoteAuthProvider
-from typing import Annotated, Any, Optional
-import json
 import httpx
 from fastmcp import FastMCP
 import os
 import logging
 import datetime
 from fastmcp.server.dependencies import get_http_headers, get_access_token
-
-from fastmcp import FastMCP, Context
-from fastmcp.server.dependencies import get_http_headers, get_access_token
-from dataclasses import dataclass
 from starlette.responses import JSONResponse
-from fastmcp.server.auth import OAuthProxy
+from fastmcp.server.auth import OAuthProxy, RemoteAuthProvider
 from fastmcp.server.auth.providers.jwt import JWTVerifier
-from pydantic import BaseModel, Field
-from typing import List
-import datetime
-import os
-import logging
-
-from fastmcp import FastMCP, Context
-from fastmcp.server.dependencies import get_http_headers, get_access_token
-from dataclasses import dataclass
-from starlette.responses import JSONResponse
 from starlette.routing import Route
 from pydantic import AnyHttpUrl
-from fastmcp.server.auth import OAuthProxy
-from fastmcp.server.auth.providers.jwt import JWTVerifier
-from pydantic import BaseModel, Field
-from typing import List
-import datetime
-import os
-import logging
-
 
 logging.basicConfig(level=logging.DEBUG)
-CURRENT_YEAR = datetime.datetime.now().year
-
-
-logging.basicConfig(level=logging.DEBUG)
-CURRENT_YEAR = datetime.datetime.now().year
 
 # setup keycloak server : create realm satishrealm and create private client with client id and secret for mcp server
 
